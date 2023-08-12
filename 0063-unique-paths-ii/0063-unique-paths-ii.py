@@ -9,6 +9,8 @@ class Solution:
         
         if obstacleGrid[ROWS - 1][COLS - 1] != 1:
             dp[ROWS - 1][COLS - 1] = 1
+        else:
+            return 0
         
         for i in range(ROWS - 1, -1, -1):
             for j in range(COLS - 1, -1, -1):
