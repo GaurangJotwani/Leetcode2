@@ -12,14 +12,14 @@ class Solution:
         
         l = self.getLength(head)
         
-        if k > l:
-            curr = head
-            for i in range(k):
-                res[i] = ListNode(curr.val)
-                curr = curr.next
-                if not curr:
-                    break
-            return res
+        # if k > l:
+        #     curr = head
+        #     for i in range(k):
+        #         res[i] = ListNode(curr.val)
+        #         curr = curr.next
+        #         if not curr:
+        #             break
+        #     return res
         
         normal_case = l // k
         extra = l % k
