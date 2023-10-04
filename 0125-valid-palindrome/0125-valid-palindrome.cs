@@ -8,7 +8,7 @@ public class Solution {
             if (char.IsLetter(c)) {
                 stringBuilder.Append(char.ToLower(c));
             } else if (char.IsDigit(c)) {
-                stringBuilder.Append(char.ToLower(c));
+                stringBuilder.Append(c);
             }
         }
         
