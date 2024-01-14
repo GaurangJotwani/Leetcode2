@@ -22,7 +22,6 @@ public:
         
         dp[{i, sum}] = dfs(amount, coins, i, sum + coins[i]) + dfs(amount, coins, i + 1, sum);
         
-        cout << dp[{i,sum}] << "\n";
         return dp[{i, sum}];
     }
 };
