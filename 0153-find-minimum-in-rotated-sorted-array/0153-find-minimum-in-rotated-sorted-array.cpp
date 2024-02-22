@@ -6,7 +6,6 @@ public:
         int right = nums.size() - 1;
         
         while (left <= right) {
-            cout << left << " " << right << "\n";
             if (nums[left] <= nums[right]) {
                 res = min(nums[left], res);
                 break;
