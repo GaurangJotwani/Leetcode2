@@ -42,7 +42,6 @@ public:
             }
             r++;
         }
-        cout << p.second;
         if (res == INT_MAX) return "";
         return s.substr(p.first, p.second - p.first + 1);
         
