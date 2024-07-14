@@ -7,4 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1162-project-employees-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1162-project-employees-ii) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
