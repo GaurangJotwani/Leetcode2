@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1162-project-employees-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1162-project-employees-ii) |
+| [1686-fix-product-name-format](https://github.com/GaurangJotwani/Leetcode2/tree/master/1686-fix-product-name-format) |
 ## Math
 |  |
 | ------- |
