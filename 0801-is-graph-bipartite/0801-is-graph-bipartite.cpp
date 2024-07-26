@@ -9,7 +9,7 @@ bool dfs(int node, int parent, vector<int> &seen, int color) {
         if (seen[nei] == 0) {
             if (!dfs(nei, node, seen, 3 - color)) return false;
         }
-        else if(nei != parent && seen[nei] == color) return false;
+        else if(seen[nei] == color) return false;
     }
     
     return true;
