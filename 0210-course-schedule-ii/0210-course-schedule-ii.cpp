@@ -11,7 +11,7 @@ public:
     
     // Sort each adjacency list to ensure lexicographically smallest order
     for (auto &l : adjList) {
-        sort(l.begin(), l.end());
+        sort(l.begin(), l.end(), [](int a, int b) {return a > b;});
     }
     
     vector<int> visit(numCourses, 0);  // 0: unvisited, 1: visiting, 2: visited
