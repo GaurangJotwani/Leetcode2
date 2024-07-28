@@ -1,49 +1,39 @@
 class Solution {
 public:
-    vector<int> res;
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        
+
+        vector<int> indegrees(numCourses, 0);
         vector<vector<int>> adjList(numCourses);
-    
-    for (auto pre : prerequisites) {
-        adjList[pre[1]].push_back(pre[0]);
-    }
-    
-    // Sort each adjacency list to ensure lexicographically smallest order
-    for (auto &l : adjList) {
-        sort(l.begin(), l.end(), [](int a, int b) {return a > b;});
-    }
-    
-    vector<int> visit(numCourses, 0);  // 0: unvisited, 1: visiting, 2: visited
-    
-    for (int i = 0; i < numCourses; i++) {
-        if (visit[i] == 0) {
-            if (!dfs(i, adjList, visit)) {
-                return vector<int>();  // Return empty vector if a cycle is detected
+        vector<int> res;
+
+        for (auto pre: prerequisites) {
+            indegrees[pre[0]]++;
+            adjList[pre[1]].push_back(pre[0]);
+        }
+
+        for (auto &l: adjList) {
+            sort(l.begin(), l.end());
+        }
+
+
+        queue<int> q;
+        for (int i = 0; i < numCourses; i++) {
+            if (indegrees[i] == 0) q.push(i);
+        }
+
+        while(!q.empty()) {
+            int node = q.front();
+            q.pop();
+            res.push_back(node);
+            for (auto nei: adjList[node]) {
+                indegrees[nei]--;
+                if (indegrees[nei] == 0) q.push(nei);
             }
         }
-    }
-    
-    reverse(res.begin(), res.end());  // Reverse the result to get the correct topological order
-    return res;
+
+        if (res.size() != numCourses) return vector<int>();
+
+        return res;
         
     }
-    
-    bool dfs(int node, vector<vector<int>> &adjList, vector<int> &visit) {
-    visit[node] = 1;  // Mark the node as visiting
-    
-    for (auto nei : adjList[node]) {
-        if (visit[nei] == 1) {
-            return false;  // Cycle detected
-        } else if (visit[nei] == 0) {
-            if (!dfs(nei, adjList, visit)) {
-                return false;  // Cycle detected in DFS subtree
-            }
-        }
-    }
-    
-    visit[node] = 2;  // Mark the node as visited
-    res.push_back(node);
-    return true;
-}
 };
