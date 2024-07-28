@@ -1,48 +1,49 @@
 class Solution {
 public:
-    unordered_map<int, bool> visited;
-    unordered_map<int, bool> visiting;
-    stack<int> stk;
-    unordered_map<int, vector<int>> adj_list;
-    
+    vector<int> res;
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         
-        vector<int> res;
-        
-        for (auto v: prerequisites) {
-            adj_list[v[1]].push_back(v[0]);
-        }
-        
-        for (int i = 0; i < numCourses; i++) {
-            if (visited.find(i) == visited.end()) {
-                if (!dfs(i)) return vector<int>(); // If cycle detected during DFS, return empty vector
+        vector<vector<int>> adjList(numCourses);
+    
+    for (auto pre : prerequisites) {
+        adjList[pre[1]].push_back(pre[0]);
+    }
+    
+    // Sort each adjacency list to ensure lexicographically smallest order
+    for (auto &l : adjList) {
+        sort(l.begin(), l.end());
+    }
+    
+    vector<int> visit(numCourses, 0);  // 0: unvisited, 1: visiting, 2: visited
+    
+    for (int i = 0; i < numCourses; i++) {
+        if (visit[i] == 0) {
+            if (!dfs(i, adjList, visit)) {
+                return vector<int>();  // Return empty vector if a cycle is detected
             }
         }
-        
-        while (!stk.empty()) {
-            res.push_back(stk.top());
-            stk.pop();
-        }
-        
-        return res;
+    }
+    
+    reverse(res.begin(), res.end());  // Reverse the result to get the correct topological order
+    return res;
         
     }
     
-    bool dfs(int node) {
-        if (visiting[node]) return false; // If the node is already being visited, cycle detected
-        
-        visiting[node] = true; // Mark as being visited
-        
-        for (auto i: adj_list[node]) {
-            if (!visited[i]) { // If the node is not visited, continue DFS
-                if (!dfs(i)) return false; // If cycle detected further down the DFS path, propagate it upwards
+    bool dfs(int node, vector<vector<int>> &adjList, vector<int> &visit) {
+    visit[node] = 1;  // Mark the node as visiting
+    
+    for (auto nei : adjList[node]) {
+        if (visit[nei] == 1) {
+            return false;  // Cycle detected
+        } else if (visit[nei] == 0) {
+            if (!dfs(nei, adjList, visit)) {
+                return false;  // Cycle detected in DFS subtree
             }
         }
-        
-        visiting[node] = false; // Mark as not being visited
-        visited[node] = true; // Mark as visited
-        stk.push(node);
-        
-        return true; // No cycle detected
     }
+    
+    visit[node] = 2;  // Mark the node as visited
+    res.push_back(node);
+    return true;
+}
 };
