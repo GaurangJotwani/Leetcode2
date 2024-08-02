@@ -65,4 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Array
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
