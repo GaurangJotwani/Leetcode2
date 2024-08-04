@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GaurangJotwani/Leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -115,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 ## Bit Manipulation
