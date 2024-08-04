@@ -10,7 +10,10 @@ public:
 
 private:
     string getKey(string s) {
-        sort(s.begin(), s.end());
-        return s;
+        vector<int> counts(26);
+        for (auto c: s) counts[c - 'a']++;
+        string key = "";
+        for (auto c: counts) key += to_string(c) + "#";
+        return key;
     }
 };
