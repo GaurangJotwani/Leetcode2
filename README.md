@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/GaurangJotwani/Leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/GaurangJotwani/Leetcode2/tree/master/0238-product-of-array-except-self) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
