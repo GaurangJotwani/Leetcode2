@@ -4,23 +4,16 @@ public:
         int i = 0;
         int j = 0;
         int result = 0;
-        
-        unordered_set<char> letters;
-        
-        while (j < s.size()) {
-            if(letters.find(s[j]) == letters.end()) {
-                letters.insert(s[j]);
+        unordered_set<int> mp;
+
+        while (j < s.length()) {
+            if (mp.find(s[j]) == mp.end()) {
                 result = max(result, j - i + 1);
-                j++;
+                mp.insert(s[j++]);
             } else {
-                letters.erase(s[i]);
-                i++;
+                mp.erase(s[i++]);
             }
-            
-            
         }
-        
         return result;
     }
-    
 };
