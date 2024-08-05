@@ -1,23 +1,23 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        
-        int i = 0;
-        int j = s.size() - 1;
-        
-        while (i < j) {
-            while(!isalnum(s[i]) && i < j) {
-                i++;
+        vector<char> word;
+
+        for (auto c: s) {
+            if ((c <= 'z' && c >= 'a') || (c >= '0' && c <= '9')) {
+                word.push_back(c);
+            } else if (c >= 'A' && c <= 'Z') {
+                word.push_back((c - 'A') + 'a');
             }
-            while(!isalnum(s[j]) && i < j) {
-                j--;
-            }
-            
-            if(tolower(s[i]) != tolower(s[j])) {
-                return false;
-            }
-            i++;
-            j--;
+        }
+
+        string res(word.begin(), word.end());
+        int l = 0;
+        int r = res.size() - 1;
+        cout << res;
+
+        while (l <= r) {
+            if (res[l++] != res[r--]) return false;
         }
         
         return true;
