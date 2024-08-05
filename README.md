@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Matrix
 |  |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 ## Bit Manipulation
 |  |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
