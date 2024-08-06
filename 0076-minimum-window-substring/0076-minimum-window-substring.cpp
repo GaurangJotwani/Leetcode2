@@ -1,37 +1,49 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char, int> freq_s;
-        unordered_map<char, int> freq_t;
-        if (s.size() < t.size()) return "";
-
-        for (auto c: t) freq_t[c]++;
-        int res = INT_MAX, r = 0, l = 0;
-        pair<int, int> indices;
-
-        while (r < s.size()) {
-            freq_s[s[r]]++;
-            while (l <= r && areMatching(freq_s, freq_t)) {
-                if (r - l + 1 < res) {
-                    res = r - l + 1;
-                    indices = {l, r};
+        struct element {
+            int index;
+            char char_val;
+        };
+        if (s.length() == 0 || t.length() == 0) {
+            return "";
+        }
+        unordered_map<char, int> dictT;
+        for (int i = 0; i < t.length(); i++) {
+            dictT[t[i]]++;
+        }
+        int required = dictT.size();
+        vector<element> filteredS;
+        for (int i = 0; i < s.length(); i++) {
+            if (dictT.find(s[i]) != dictT.end()) filteredS.push_back({i, s[i]});
+        }
+        int l = 0, r = 0, formed = 0;
+        unordered_map<char, int> windowCounts;
+        vector<int> ans = {-1, 0, 0};
+        while (r < filteredS.size()) {
+            char c = filteredS[r].char_val;
+            windowCounts[c]++;
+            if (dictT.find(c) != dictT.end() && windowCounts[c] == dictT[c]) {
+                formed++;
+            }
+            while (l <= r && formed == required) {
+                char c = filteredS[l].char_val;
+                int end = filteredS[r].index;
+                int start = filteredS[l].index;
+                if (ans[0] == -1 || end - start + 1 < ans[0]) {
+                    ans[0] = end - start + 1;
+                    ans[1] = start;
+                    ans[2] = end;
                 }
-                freq_s[s[l]]--;
-                if (freq_s[s[l]] == 0) freq_s.erase(s[l]);
+                windowCounts[c]--;
+                if (dictT.find(c) != dictT.end() &&
+                    windowCounts[c] < dictT[c]) {
+                    formed--;
+                }
                 l++;
             }
             r++;
         }
-        if (res == INT_MAX) return "";
-        return s.substr(indices.first, indices.second - indices.first + 1);
-    }
-
-private:
-    bool areMatching(unordered_map<char, int> &freq_s, unordered_map<char, int> &freq_t) {
-        for (auto c: freq_t) {
-            if (freq_s.find(c.first) == freq_s.end()) return false;
-            if (freq_s[c.first] < c.second) return false;
-        }
-        return true;
+        return ans[0] == -1 ? "" : s.substr(ans[1], ans[0]);
     }
 };
