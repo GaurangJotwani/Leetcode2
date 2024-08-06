@@ -8,8 +8,7 @@ public:
         stk.push(val);
         if (minStk.empty() || minStk.top() > val) minStk.push(val);
         else {
-            int m = minStk.top();
-            minStk.push(m);
+            minStk.push(minStk.top());
         }
     }
     
