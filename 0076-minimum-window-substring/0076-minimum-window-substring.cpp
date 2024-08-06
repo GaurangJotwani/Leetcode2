@@ -1,47 +1,37 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        map<char, int> s_d;
-        map<char, int> t_d;
+        unordered_map<char, int> freq_s;
+        unordered_map<char, int> freq_t;
         if (s.size() < t.size()) return "";
-                
-        for (auto c: t) {
-            t_d[c]++;
-        }
-        
-        int l = 0;
-        int r = 0;
-        int res = INT_MAX;
-        pair<int, int> p;
-        
+
+        for (auto c: t) freq_t[c]++;
+        int res = INT_MAX, r = 0, l = 0;
+        pair<int, int> indices;
+
         while (r < s.size()) {
-            s_d[s[r]]++;
-            while (l <= r && areMatching(s_d, t_d)) {
+            freq_s[s[r]]++;
+            while (l <= r && areMatching(freq_s, freq_t)) {
                 if (r - l + 1 < res) {
                     res = r - l + 1;
-                    p.first = l;
-                    p.second = r;
+                    indices = {l, r};
                 }
-                s_d[s[l]]--;
-                if (s_d[s[l]] == 0) {
-                    s_d.erase(s[l]);
-                } 
+                freq_s[s[l]]--;
+                if (freq_s[s[l]] == 0) freq_s.erase(s[l]);
                 l++;
             }
             r++;
         }
         if (res == INT_MAX) return "";
-        return s.substr(p.first, p.second - p.first + 1);
-        
+        return s.substr(indices.first, indices.second - indices.first + 1);
     }
+
 private:
-    bool areMatching(const map<char, int>& s, const map<char, int>& t) {
-    for (const auto& p : t) {
-        auto s_iter = s.find(p.first);
-        if (s_iter == s.end() || p.second > s_iter->second) {
-            return false;
+    bool areMatching(unordered_map<char, int> &freq_s, unordered_map<char, int> &freq_t) {
+        for (auto c: freq_t) {
+            if (freq_s.find(c.first) == freq_s.end()) return false;
+            if (freq_s[c.first] < c.second) return false;
         }
+        return true;
     }
-    return true;
-}
 };
