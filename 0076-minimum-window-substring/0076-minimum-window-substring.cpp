@@ -17,16 +17,6 @@ public:
         while (r < s.size()) {
             s_d[s[r]]++;
             if (areMatching(s_d, t_d)) {
-                if (r - l + 1 < res) {
-                    res = r - l + 1;
-                    p.first = l;
-                    p.second = r;
-                }
-                // s_d[s[l]]--;
-                // if (s_d[s[l]] == 0) {
-                //     s_d.erase(s[l]);
-                // }
-                // l++;
                 while (l <= r && areMatching(s_d, t_d)) {
                         if (r - l + 1 < res) {
                             res = r - l + 1;
