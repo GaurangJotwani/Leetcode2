@@ -6,22 +6,16 @@ public:
     
     void push(int val) {
         stk.push(val);
-        if (minStk.empty() || val < minStk.top().first) {
-            minStk.push({val, 1});
-        } else if(val == minStk.top().first) {
-            minStk.top().second++;
+        if (minStk.empty() || minStk.top() > val) minStk.push(val);
+        else {
+            int m = minStk.top();
+            minStk.push(m);
         }
     }
     
     void pop() {
-        if (stk.top() == minStk.top().first) {
-            minStk.top().second--;
-            if (minStk.top().second == 0) {
-                minStk.pop();
-            }
-        }
         stk.pop();
-        
+        minStk.pop();
     }
     
     int top() {
@@ -29,12 +23,11 @@ public:
     }
     
     int getMin() {
-        return minStk.top().first;
-        
+        return minStk.top();
     }
 private:
     stack<int> stk;
-    stack<pair<int, int>> minStk;
+    stack<int> minStk;
 };
 
 /**
