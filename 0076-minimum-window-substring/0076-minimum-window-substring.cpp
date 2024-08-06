@@ -1,8 +1,8 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char, int> s_d;
-        unordered_map<char, int> t_d;
+        map<char, int> s_d;
+        map<char, int> t_d;
         if (s.size() < t.size()) return "";
                 
         for (auto c: t) {
@@ -17,18 +17,17 @@ public:
         while (r < s.size()) {
             s_d[s[r]]++;
             while (l <= r && areMatching(s_d, t_d)) {
-                    if (r - l + 1 < res) {
-                        res = r - l + 1;
-                        p.first = l;
-                        p.second = r;
-                    }
-                    s_d[s[l]]--;
-                    if (s_d[s[l]] == 0) {
-                        s_d.erase(s[l]);
-                    } 
-                    l++;
+                if (r - l + 1 < res) {
+                    res = r - l + 1;
+                    p.first = l;
+                    p.second = r;
                 }
-
+                s_d[s[l]]--;
+                if (s_d[s[l]] == 0) {
+                    s_d.erase(s[l]);
+                } 
+                l++;
+            }
             r++;
         }
         if (res == INT_MAX) return "";
@@ -36,7 +35,7 @@ public:
         
     }
 private:
-    bool areMatching(const unordered_map<char, int>& s, const unordered_map<char, int>& t) {
+    bool areMatching(const map<char, int>& s, const map<char, int>& t) {
     for (const auto& p : t) {
         auto s_iter = s.find(p.first);
         if (s_iter == s.end() || p.second > s_iter->second) {
