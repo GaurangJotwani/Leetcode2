@@ -3,23 +3,18 @@ public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
         stack<pair<int, int>> stk;
         int n = temperatures.size();
+        vector<int> t = temperatures;
+
         vector<int> result(n);
-        
+
         for (int i = 0; i < n; i++) {
-            int currDay = i;
-            int currTemp = temperatures[i];
-            
-            while(!stk.empty() && stk.top().second < currTemp) {
+            while (!stk.empty() && stk.top().second < t[i]) {
                 int prevDay = stk.top().first;
-                int prevTemp = stk.top().second;
                 stk.pop();
-                
-                result[prevDay] = currDay - prevDay;
+                result[prevDay] = i - prevDay;
             }
-            
-            stk.push({currDay, currTemp});
+            stk.push({i, t[i]});
         }
-        
         return result;
     }
 };
