@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/GaurangJotwani/Leetcode2/tree/master/0907-koko-eating-bananas) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/GaurangJotwani/Leetcode2/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
