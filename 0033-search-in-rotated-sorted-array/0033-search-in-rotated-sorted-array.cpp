@@ -12,7 +12,7 @@ public:
             }
             
             if (nums[left] <= nums[mid]) {
-              if (target >= nums[left] && target <= nums[mid]) {
+              if (target >= nums[left] and target <= nums[mid]) {
                   right = mid - 1;
               } else {
                   left = mid + 1;
