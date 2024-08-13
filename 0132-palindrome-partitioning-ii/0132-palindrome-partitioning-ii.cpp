@@ -12,11 +12,17 @@ public:
         int n = s.size();
         vector<int> dp(n + 1, INT_MAX);
         dp[n] = -1;
+        vector<vector<bool>> memo(n, vector<bool>(n, false));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                memo[i][j] = isPalindrome(s, i, j);
+            }
+        }
 
         for (int i = n - 1; i >= 0; i--) {
             int ans = INT_MAX;
             for (int j = i; j < n; j++) {
-                if (isPalindrome(s, i, j)) {
+                if (memo[i][j]) {
                     ans = min(ans, 1 + dp[j + 1]);
                 }
             }
