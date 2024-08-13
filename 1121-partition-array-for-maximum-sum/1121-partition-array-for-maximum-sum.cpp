@@ -6,11 +6,11 @@ public:
         memset(dp, 0, sizeof(dp));
         for (int i = n - 1; i >= 0; i--) {
             int val = INT_MIN;
+            int mx = 0;
             for (int j = 1; j <= k; j++) {
                 if (i + j > n) continue;
-                auto it = max_element(arr.begin() + i, arr.begin() + i + j);
-                int t = *it;
-                val = max(val, t * j + dp[i + j]);
+                mx = max(mx, arr[i + j - 1]);
+                val = max(val, mx * j + dp[i + j]);
             }
             dp[i] = val;
         }
