@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 ## Bitmask
 |  |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
