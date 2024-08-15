@@ -4,7 +4,7 @@ public:
     int target;
     vector<int> nums;
 
-    void dp(vector<int> curr, int i, int cSum) {
+    void dp(vector<int> &curr, int i, int cSum) {
         if (cSum == target) {
             res.push_back(curr);
             return;
