@@ -6,11 +6,11 @@ public:
     vector<vector<char>> grid;
 
     void dfs(int r, int c, vector<vector<bool>> &visited) {
+        visited[r][c] = true;
         for (auto d: dir) {
             int row = r + d[0];
             int col = c + d[1];
             if (row >= 0 && row < ROWS && col >= 0 && col < COLS && !visited[row][col] && grid[row][col] == '1') {
-                visited[row][col] = true;
                 dfs(row, col, visited);
             }
         }
@@ -25,7 +25,6 @@ public:
         for (int r = 0; r < ROWS; r++) {
             for (int c = 0; c < COLS; c++) {
                 if (!visited[r][c] && grid[r][c] == '1') {
-                    visited[r][c]= true;
                     res++;
                     dfs(r, c, visited);
                 }
