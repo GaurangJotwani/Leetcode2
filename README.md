@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0332-reconstruct-itinerary) |
+| [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
+| [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
+| [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
@@ -166,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/GaurangJotwani/Leetcode2/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
