@@ -5,7 +5,7 @@ public:
         dp[0] = 0;
         for (int a = 1; a < amount + 1; a++) {
             for (auto c: coins) {
-                if (a - c >= 0 && dp[a - c] != INT_MAX ) {
+                if (a - c >= 0 and dp[a - c] != INT_MAX ) {
                     dp[a] = min(dp[a], 1 + dp[a - c]);
                 }
             }
