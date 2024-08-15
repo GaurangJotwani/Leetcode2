@@ -16,7 +16,7 @@ public:
             for (int j = 0; j <= n; j++) {
                 dp[i][j] = dp[i - 1][j];
                 if (j - nums[i] >= 0) {
-                    dp[i][j] = dp[i][j] || dp[i - 1][j - nums[i]];
+                    dp[i][j] = dp[i][j] or dp[i - 1][j - nums[i]];
                 }
             }
         }
