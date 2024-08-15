@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        int res = 0;
-        helper(root, res);
-        return res;
+    int res;
+    int dfs(TreeNode* root) {
+        if (root == NULL) return 0; 
+        int leftHeight = dfs(root->left);
+        int rightHeight = dfs(root->right);
+        res = max(res, leftHeight + rightHeight);
+        cout << leftHeight << "\n";
+        return 1 + max(leftHeight, rightHeight);
     }
-private:
-    int helper(TreeNode* root, int& res) {
-        if (root == NULL) return 0;
-        int left = helper(root -> right, res);
-        int right = helper(root -> left, res);
-        res = max(left + right, res);
-        return 1 + max(left, right);
+    int diameterOfBinaryTree(TreeNode* root) {
+        dfs(root);
+        return res;
     }
 };
