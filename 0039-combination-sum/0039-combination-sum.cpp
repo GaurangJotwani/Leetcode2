@@ -4,14 +4,12 @@ public:
     int target;
     vector<int> nums;
 
-    void dp(vector<int> &curr, int i, int cSum) {
+    void dp(vector<int> curr, int i, int cSum) {
         if (cSum == target) {
             res.push_back(curr);
             return;
         }
-
         if (i >= nums.size()) return;
-
         // include
         if (nums[i] + cSum <= target) {
             curr.push_back(nums[i]);
