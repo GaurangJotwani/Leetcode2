@@ -21,26 +21,73 @@ public:
 
 class Solution {
 public:
-    unordered_map<int, Node*> clones;
+
     Node* cloneGraph(Node* node) {
-        return clone_helper(node);
+        if (node == NULL) return NULL;
+        unordered_map<int, Node*> node_map;
+        return dfs(node, node_map);
     }
 private:
-    Node* clone_helper(Node* node) {
-        if (!node)
-            return nullptr;
+    Node* dfs(Node* node, unordered_map<int, Node*> &node_map) {
         
-        if (clones.find(node->val) != clones.end()) {
-            return clones[node->val];
-        }
-        
-        Node* clone = new Node(node->val);
-        clones[node->val] = clone;
-        
+        if (node_map.find(node->val) != node_map.end()) return node_map[node->val];
+        Node* newNode = new Node(node->val);
+        node_map[node->val] = newNode;
         for (auto nei: node->neighbors) {
-            clone->neighbors.push_back(clone_helper(nei));
+            newNode->neighbors.push_back(dfs(nei, node_map));
         }
-        
-        return clone;
+        return newNode;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
