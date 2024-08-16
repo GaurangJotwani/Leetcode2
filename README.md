@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GaurangJotwani/Leetcode2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/GaurangJotwani/Leetcode2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/GaurangJotwani/Leetcode2/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -339,4 +341,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GaurangJotwani/Leetcode2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
