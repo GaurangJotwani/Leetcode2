@@ -11,20 +11,21 @@
  */
 class Solution {
 public:
-    bool isBalanced(TreeNode* root) {
-        bool res = true;
-        helper(root, res);
-        return res;
-    }
-    
-    int helper(TreeNode* root, bool& res) {
+    bool res;
+    int dfs(TreeNode* root) {
         if (root == NULL) return 0;
-        
-        int left = helper(root->left, res);
-        int right = helper(root-> right, res);
-        if (abs(right - left) > 1) {
+        int l = dfs(root->left);
+        int r = dfs(root->right);
+        cout << l <<" " << r << endl;
+        if (abs(r - l) > 1) {
             res = false;
         }
-        return 1 + max(left, right);
+        return 1 + max(l, r);
+    }
+    bool isBalanced(TreeNode* root) {
+        if (root == NULL) return true;
+        res = true;
+        dfs(root);
+        return res;
     }
 };
