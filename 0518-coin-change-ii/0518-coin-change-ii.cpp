@@ -1,27 +1,26 @@
 class Solution {
 public:
-    int change(int amount, vector<int>& coins) {
-        return dfs(amount, coins, 0, 0);
-        
-    }
+    int target;
+    vector<int> coins;
     
-    private:
-    map<pair<int, int>, int>dp;
-    int dfs(int amount, vector<int>& coins, int i, int sum) {
-        if (sum == amount) return 1;
-        
-        if (sum > amount) {
-            return 0;
+    int change(int amount, vector<int>& coins) {
+        this->coins = coins;
+        this->target = amount;
+        vector<vector<int>> dp(coins.size(), vector<int>(amount + 1, -1));
+        return helper(0, 0, dp);
+    }
+
+    int helper(int idx, int cSum, vector<vector<int>> &dp) {
+        if (cSum == target) return 1;
+        if (idx == coins.size()) return 0;
+        if (dp[idx][cSum] != -1) return dp[idx][cSum];
+        int ans = 0;
+        // include
+        if (cSum + coins[idx] <= target) {
+            ans += helper(idx, cSum + coins[idx], dp);
         }
-        
-        if (i == coins.size()) return 0;
-        
-        if (dp.find({i, sum}) != dp.end()) {
-            return dp[{i, sum}];
-        }
-        
-        dp[{i, sum}] = dfs(amount, coins, i, sum + coins[i]) + dfs(amount, coins, i + 1, sum);
-        
-        return dp[{i, sum}];
+        // exclude
+        ans += helper(idx + 1, cSum, dp);
+        return dp[idx][cSum] = ans;
     }
 };
