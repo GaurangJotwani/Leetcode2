@@ -11,21 +11,19 @@
  */
 class Solution {
 public:
+    bool isSubHelper(TreeNode* root, TreeNode* subRoot) {
+        if (subRoot == NULL && root == NULL) return true;
+        if (subRoot == NULL || root == NULL) return false;
+        return root->val == subRoot->val &&
+               isSubHelper(root->left, subRoot->left) &&
+               isSubHelper(root->right, subRoot->right);
+    }
+
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if (root == NULL) return false;
-        if (checkSubtree(root, subRoot)) {
-            return true;
-        }
-        
+        // Check if current root matches subRoot
+        if (isSubHelper(root, subRoot)) return true;
+        // Otherwise, continue searching in the left and right subtrees
         return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
-    }
-    
-private:
-    bool checkSubtree(TreeNode* root, TreeNode* subRoot) {
-        if (subRoot == NULL && root == NULL) return true;
-        if (root == NULL || subRoot == NULL) return false;
-        if (root -> val != subRoot -> val) return false;
-        
-        return checkSubtree(root -> left, subRoot -> left) && checkSubtree(root -> right, subRoot -> right);
     }
 };
