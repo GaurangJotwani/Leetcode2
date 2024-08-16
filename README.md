@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0133-clone-graph) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
