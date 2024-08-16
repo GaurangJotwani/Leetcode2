@@ -11,13 +11,12 @@ public:
 private:
     int helper(int idx, int cSum) {
         if (idx == nums.size()) return cSum == target ? 1 : 0;
-        if (dp.find({idx, cSum}) != dp.end()) return dp[{idx, cSum}];
+        if (dp.count({idx,cSum})) return dp[{idx, cSum}];
         int ans = 0;
         // either add it    
         ans += helper(idx + 1, cSum + nums[idx]);
         // either subtract it
         ans += helper(idx + 1, cSum - nums[idx]);
-        dp[{idx, cSum}] = ans;
-        return ans;
+        return dp[{idx, cSum}] = ans;
     }
 };
