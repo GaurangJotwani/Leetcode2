@@ -12,11 +12,9 @@
 class Solution {
 public:
     bool isSubHelper(TreeNode* root, TreeNode* subRoot) {
-        if (subRoot == NULL && root == NULL) return true;
+        if (subRoot == NULL and root == NULL) return true;
         if (subRoot == NULL || root == NULL) return false;
-        return root->val == subRoot->val &&
-               isSubHelper(root->left, subRoot->left) &&
-               isSubHelper(root->right, subRoot->right);
+        return root->val == subRoot->val and isSubHelper(root->left, subRoot->left) and isSubHelper(root->right, subRoot->right);
     }
 
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
