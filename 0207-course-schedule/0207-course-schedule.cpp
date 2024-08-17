@@ -26,6 +26,9 @@ public:
                 if(!dfs(i, visit)) return false;
             }
         }
+        reverse(res.begin(), res.end());
+        for (auto r: res) cout << r << " ";
+        cout << endl;
         return true;
     }
 };
