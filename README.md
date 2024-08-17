@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0543-diameter-of-binary-tree) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/GaurangJotwani/Leetcode2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0332-reconstruct-itinerary) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0286-walls-and-gates](https://github.com/GaurangJotwani/Leetcode2/tree/master/0286-walls-and-gates) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
@@ -80,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
