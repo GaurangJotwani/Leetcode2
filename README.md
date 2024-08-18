@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/GaurangJotwani/Leetcode2/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0053-maximum-subarray) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/GaurangJotwani/Leetcode2/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
@@ -423,4 +425,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/GaurangJotwani/Leetcode2/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
