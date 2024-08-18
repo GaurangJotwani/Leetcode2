@@ -1,24 +1,26 @@
 class Solution {
 public:
-    map<pair<int, int>, int>dp;
-    int numDistinct(string s, string t) {
-        return helper(0, 0, s, t);
-    }
-private:
-    int helper(int i, int j, string& s, string& t) {
-        if (j == t.size()) return 1;
+    string t;
+    string s;
+    int dp[1001][1001];
+    int solve(int i, int j) {
+        if (i == s.size() && j == t.size()) return 1;
         if (i == s.size()) return 0;
-        if (dp.find({i, j}) != dp.end()) {
-            return dp[{i, j}];
-        }
-        
-        
-        if (s[i] == t[j]) {
-            dp[{i, j}] = helper(i + 1, j + 1, s, t) + helper(i + 1, j, s, t);
-        } else {
-            dp[{i, j}] = helper(i + 1, j, s, t);
-        }
-        
-        return dp[{i, j}];
+        if (j == t.size()) return 1;
+        if (dp[i][j] != -1) return dp[i][j];
+
+        int ans = 0;
+
+        if (s[i] == t[j]) ans += solve(i + 1, j + 1);
+        ans += solve(i + 1, j);
+        return dp[i][j] = ans;
+
+    }
+
+    int numDistinct(string s, string t) {
+        this->t = t;
+        this->s = s;
+        memset(dp, - 1, sizeof(dp));
+        return solve(0, 0);
     }
 };
