@@ -1,36 +1,47 @@
 class Solution {
 public:
+    string p;
+    string s;
+    int dp[21][21];
+
     bool isMatch(string s, string p) {
-        
-        
-        int n = s.size();
-        int m = p.size();
-        
-        vector<vector<bool>> dp(n + 1, vector<bool>(m + 1, false));
-        
-        cout << dp[n][m];
-        
-        for (int i = 0; i < m + 1; i++) {
-            if (i == 0) {dp[0][i] = true;}
-            else if (p[i - 1] == '*') dp[0][i] = dp[0][i - 2];
-        }
-        
-        cout << dp[0][0] << " " << dp[0][m];
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (s[i] == p[j] || p[j] == '.') {
-                    dp[i + 1][j + 1] = dp[i][j];
-                } else if (p[j] == '*') {
-                    if (dp[i + 1][j - 1]) dp[i + 1][j + 1] = true;
-                    else if (p[j - 1] == s[i] || p[j - 1] == '.') dp[i + 1][j + 1] = dp[i][j + 1];
-                } else {
-                    dp[i + 1][j + 1] = false;
-                }
+        this->s = s;
+        this->p = p;
+        memset(dp, -1, sizeof(dp));
+        return helper(0, 0);        
+    }
+
+    bool helper(int i, int j) {
+        if (j == p.size() & i == s.size()) return true;
+        if (j == p.size()) return false;
+        if (dp[i][j] != -1) return dp[i][j];
+        bool ans = false;
+        // case 1 *
+        if (j + 1 < p.size() && p[j + 1] == '*') {
+            // case 1a (include)
+            if (i < s.size() && (s[i] == p[j] || p[j] == '.')) {
+                ans = ans || helper(i + 1, j);
+            }
+            //case 1b exclude
+            ans = ans || helper(i, j + 2);
+        } else {
+            if (i < s.size() && (s[i] == p[j] || p[j] == '.')) {
+                ans = ans || helper(i + 1, j + 1);
             }
         }
-        
-        
-        return dp[n][m];
+        return dp[i][j] = ans;
     }
+
 };
+
+
+
+
+
+
+
+
+
+
+
+
