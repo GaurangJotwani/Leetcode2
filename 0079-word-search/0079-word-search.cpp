@@ -1,45 +1,27 @@
 class Solution {
 public:
     string word;
-    int ROWS; 
-    int COLS;
-    vector<vector<char>> board;
-    vector<vector<int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-
-    bool dfs(int r, int c, int idx) {
-        // Base cases
-        if (idx == word.size()) return true;
-        if (r < 0 || r >= ROWS || c < 0 || c >= COLS || board[r][c] != word[idx]) return false;
-
-        // Temporarily mark the cell as visited
-        char temp = board[r][c];
-        board[r][c] = '#'; // Use a special character to mark as visited
-
-        // Explore all possible directions
-        for (auto d : dir) {
-            int row = r + d[0];
-            int col = c + d[1];
-            if (dfs(row, col, idx + 1)) return true;
-        }
-
-        // Restore the cell's original value
-        board[r][c] = temp;
-        return false;
-    }
-
+    vector<vector<int>> dir = {{1, 0},{-1, 0},{0, 1},{0, -1}};
+    
+    
     bool exist(vector<vector<char>>& board, string word) {
-        this->word = word;
-        ROWS = board.size();
-        COLS = board[0].size();
-        this->board = board;
+    for (unsigned int i = 0; i < board.size(); i++) 
+        for (unsigned int j = 0; j < board[0].size(); j++) 
+            if (dfs(board, i, j, word))
+                return true;
+    return false;
+}
 
-        // Start DFS from every cell that matches the first letter of the word
-        for (int r = 0; r < ROWS; ++r) {
-            for (int c = 0; c < COLS; ++c) {
-                if (board[r][c] == word[0] && dfs(r, c, 0)) return true;
-            }
-        }
-
+bool dfs(vector<vector<char>>& board, int i, int j, string& word) {
+    if (!word.size())
+        return true;
+    if (i<0 || i>=board.size() || j<0 || j>=board[0].size() || board[i][j] != word[0])  
         return false;
-    }
+    char c = board[i][j];
+    board[i][j] = '*';
+    string s = word.substr(1);
+    bool ret = dfs(board, i-1, j, s) || dfs(board, i+1, j, s) || dfs(board, i, j-1, s) || dfs(board, i, j+1, s);
+    board[i][j] = c;
+    return ret;
+}
 };
