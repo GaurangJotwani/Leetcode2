@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0543-diameter-of-binary-tree) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/GaurangJotwani/Leetcode2/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/GaurangJotwani/Leetcode2/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/GaurangJotwani/Leetcode2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Hash Table
 |  |
@@ -145,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaurangJotwani/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
@@ -161,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
@@ -205,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaurangJotwani/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
@@ -246,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/GaurangJotwani/Leetcode2/tree/master/0286-walls-and-gates) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
