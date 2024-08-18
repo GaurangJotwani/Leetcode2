@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0338-counting-bits) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
