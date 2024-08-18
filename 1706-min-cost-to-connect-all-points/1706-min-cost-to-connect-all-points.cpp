@@ -18,12 +18,15 @@ public:
         pq.push({0, 0});
         vector<bool> visited(n, false);
         int res = 0;
+        int seen = 0;
         while (!pq.empty()) {
+            if (seen == n) break;
             int node = pq.top()[1];
             int w = pq.top()[0];
             pq.pop();
             if (visited[node]) continue;
             visited[node] = true;
+            seen++;
             res += w;
             for (auto nei: adjList[node]) {
                 if (!visited[nei.first]) {
