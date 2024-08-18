@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/GaurangJotwani/Leetcode2/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/GaurangJotwani/Leetcode2/tree/master/0286-walls-and-gates) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/GaurangJotwani/Leetcode2/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/GaurangJotwani/Leetcode2/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 ## Tree
