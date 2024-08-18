@@ -4,7 +4,7 @@ public:
     string s;
     int dp[1001][1001];
     int solve(int i, int j) {
-        if (i == s.size() && j == t.size()) return 1;
+        if (j == t.size()) return 1;
         if (i == s.size()) return 0;
         
         if (dp[i][j] != -1) return dp[i][j];
