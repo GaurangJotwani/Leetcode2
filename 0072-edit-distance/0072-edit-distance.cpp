@@ -1,29 +1,39 @@
 class Solution {
 public:
+    int dp[501][501];
     int minDistance(string word1, string word2) {
-        
-        return helper(word1, word2, 0, 0);
+        this->word1 = word1;
+        this->word2 = word2;
+        memset(dp, -1, sizeof(dp));
+        return helper(0, 0);
     }
 private:
-    map<pair<int, int>, int>dp;
-    int helper(string word1, string word2, int i, int j) {
-        
+    string word1;
+    string word2;
+    
+    int helper(int i, int j) {
+
+        if (i == word1.size() && j == word2.size()) return 0;
         if (i == word1.size()) return word2.size() - j;
-        
         if (j == word2.size()) return word1.size() - i;
+        if (dp[i][j] != -1) return dp[i][j]; 
         
-        if (dp.find({i ,j}) != dp.end()) return dp[{i, j}];
-        
+        int ans = INT_MAX;
+
         if (word1[i] == word2[j]) {
-            return helper(word1, word2, i+1, j+1);
+            ans = helper(i + 1, j + 1);  
+        } else {
+            ans = min({ans, 1 + helper(i + 1, j), 1 + helper(i, j + 1), 1 + helper(i + 1, j + 1)});
         }
-        
-        int case1 = helper(word1, word2, i + 1, j + 1);
-        int case2 = helper(word1, word2, i, j + 1);
-        int case3 = helper(word1, word2, i + 1, j);
-        
-        dp[{i,j}] = 1 + min(min(case1, case2), case3);
-        return dp[{i, j}];
-        
+        return dp[i][j] = ans;
     }
 };
+
+
+
+
+
+
+
+
+
