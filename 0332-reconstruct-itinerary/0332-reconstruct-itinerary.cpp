@@ -3,7 +3,6 @@ public:
     vector<string> res;
     
     void postOrderDfs(string node, unordered_map<string, vector<string>> &adjList, unordered_map<string, int> &outgoing) {
-        cout << node << " " << outgoing[node] << endl;
         while (outgoing[node] > 0) {
             outgoing[node]--;
             postOrderDfs(adjList[node][outgoing[node]], adjList, outgoing);
