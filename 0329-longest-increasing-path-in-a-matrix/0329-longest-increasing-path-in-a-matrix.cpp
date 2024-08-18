@@ -1,35 +1,40 @@
 class Solution {
 public:
-    int longestIncreasingPath(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-        
-        int result = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                result = max(result, helper(i, j, -1, m, n, matrix));
+    int ROWS;
+    int COLS;
+    vector<vector<int>> dir = {{0, 1},{0, -1},{1, 0},{-1, 0}};
+    vector<vector<int>> matrix;
+
+    int dfs(int r, int c, vector<vector<int>> &dp) {
+        if (dp[r][c] != -1) return dp[r][c];
+        dp[r][c] = 0; // visiting
+        int ans = 1;
+        for (auto d: dir) {
+            int row = d[0] + r;
+            int col = d[1] + c;
+            if (row >= 0 && row < ROWS && col >= 0 && col < COLS && matrix[row][col] > matrix[r][c] && dp[row][col] != 0) {
+                ans = max(ans, 1 + dfs(row, col, dp));
             }
         }
-        return result;
+        return dp[r][c] = ans;
+        
     }
-private:
-    map<pair<int, int>, int>dp;
-    int helper(int i, int j, int prev, int m, int n, vector<vector<int>>& matrix) {
-        if (i < 0 || i >= m || j < 0 || j >= n || matrix[i][j] <= prev) {
-            return 0;
+
+    int longestIncreasingPath(vector<vector<int>>& matrix) {
+        this->matrix = matrix;
+        ROWS = matrix.size();
+        COLS = matrix[0].size();
+        vector<vector<int>> dp(ROWS, vector<int>(COLS, -1));
+        int res = 0;
+        for (int r = 0; r < ROWS; r++) {
+            for (int c = 0; c < COLS; c++) {
+                if (dp[r][c] == -1) {
+                    int t = dfs(r, c, dp);
+                    res = max(res, t);
+                }
+            }
         }
-        
-        if (dp.find({i, j}) != dp.end()) {
-            return dp[{i, j}];
-        }
-        
-        int result = 1;
-        result = max(result, 1 + helper(i + 1, j, matrix[i][j], m, n, matrix));
-        result = max(result, 1 + helper(i - 1, j, matrix[i][j], m, n, matrix));
-        result = max(result, 1 + helper(i, j + 1, matrix[i][j], m, n, matrix));
-        result = max(result, 1 + helper(i, j - 1, matrix[i][j], m, n, matrix));
-        
-        dp[{i, j}] = result;
-        return dp[{i, j}];
+        return res;
     }
+
 };
