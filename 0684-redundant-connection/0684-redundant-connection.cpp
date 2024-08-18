@@ -1,48 +1,50 @@
-class Solution {
+class DSU {
 public:
-    vector<int> par;
-    vector<int> rnk;
-    
-    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int n = edges.size();
-        par = vector<int>(n + 1);
-        rnk = vector<int>(n + 1, 1);
-        
-        for (int i = 0; i < n + 1; i++) {
-            par[i] = i;
-        }
-        
-        for (auto edge: edges) {
-            if (!uni(edge[0], edge[1])) {
-                return edge;
-            }
-        }
-        
-        return edges[0];
+    int n;
+    vector<int> parents;
+    vector<int> ranks;
+
+    DSU(int n) {
+        this->n = n;
+        parents.resize(n + 1);
+        for (int i = 1; i <=n; i++) parents[i] = i;
+        ranks.resize(n + 1, 1);
     }
-    
-private:
+
+    int find(int i) {
+        if (parents[i] == i) return i;
+        return parents[i] = find(parents[i]);
+    }
+
     bool uni(int i, int j) {
         int p1 = find(i);
         int p2 = find(j);
-        if (p1 == p2) return false;
-        
-        if (rnk[p1] > rnk[p2]) {
-            par[p2] = p1;
-            rnk[p1] += rnk[p2];
-        } else {
-            par[p1] = p2;
-            rnk[p2] += rnk[p1];
+        if (p1 != p2) {
+            if (ranks[p1] > ranks[p2]) {
+                parents[p2] = p1;
+                ranks[p1] += ranks[p2];
+            } else {
+                parents[p1] = p2;
+                ranks[p2] += ranks[p1];
+            }
+            n--;
+            return true;
         }
-        
-        return true;
+        return false;
     }
-    
-    int find(int i) {
-        int res = i;
-        while (res != par[res]) {
-            res = par[res];
+
+
+
+};
+
+class Solution {
+public:
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int n = edges.size();
+        DSU dsu(n);
+        for (auto edge: edges) {
+            if (!dsu.uni(edge[0], edge[1])) return {edge[0], edge[1]};
         }
-        return res;
+        return {};
     }
 };
