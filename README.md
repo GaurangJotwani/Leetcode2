@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaurangJotwani/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0338-counting-bits) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 ## Bitmask
 |  |
