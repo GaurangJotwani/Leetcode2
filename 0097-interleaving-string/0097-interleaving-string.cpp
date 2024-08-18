@@ -1,24 +1,32 @@
 class Solution {
 public:
-    bool isInterleave(string s1, string s2, string s3) {
-        if (s3.size() != s1.size() + s2.size()) return false;
-        
-        return dfs(s1, s2, s3, 0, 0);
+    string s1;
+    string s2;
+    string s3;
+    vector<vector<int>> dp;
+
+    bool helper(int i, int j) {
+        if (i == s1.size() and j == s2.size()) return true;
+        if(dp[i][j] != - 1) return dp[i][j];
+        int k = i + j;
+        bool ans = false;
+        if (i < s1.size() and s1[i] == s3[k]) {
+            ans = ans or helper(i + 1, j);
+        }
+
+        if (j < s2.size() and s2[j] == s3[k]) {
+            ans = ans or helper(i, j + 1);
+        }
+
+        return dp[i][j] = ans;
     }
-    
-private:
-    map<pair<int, int>, int> dp;
-    
-    bool dfs(string s1, string s2, string s3, int i, int j) {
-        if (i == s1.size() && j == s2.size()) return true;
-        
-        if (dp.find({i, j}) != dp.end()) return dp[{i, j}];
-        
-        if (i < s1.size() && s1[i] == s3[i + j] && dfs(s1, s2, s3, i + 1, j)) return true;
-        
-        if (j < s2.size() && s2[j] == s3[i + j] && dfs(s1, s2, s3, i, j + 1)) return true;
-        
-        dp[{i, j}] = false;
-        return false;
+
+    bool isInterleave(string s1, string s2, string s3) {
+        this->s1 = s1;
+        this->s2 = s2;
+        this->s3 = s3;
+        if (s1.size() + s2.size() != s3.size()) return false;
+        dp.resize(s1.size() + 1, vector<int>(s2.size() + 1, -1));
+        return helper(0, 0); 
     }
 };
