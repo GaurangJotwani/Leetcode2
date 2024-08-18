@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/GaurangJotwani/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0213-house-robber-ii) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -266,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
@@ -380,4 +385,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GaurangJotwani/Leetcode2/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
