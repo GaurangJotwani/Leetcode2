@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Array
 |  |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -310,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/GaurangJotwani/Leetcode2/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
@@ -401,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
