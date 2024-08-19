@@ -12,10 +12,12 @@ public:
         int t = 0;
         while (!pq.empty()) {
             t++;
-            if (pq.top()[0] > t) continue;
+            if (pq.top()[0] > t) {
+                t = pq.top()[0] - 1;
+                continue;
+            }
             int nxtTime = pq.top()[0] + n + 1;
             int taskLeft = pq.top()[1] - 1;
-            cout << nxtTime << " " << taskLeft << endl;
             pq.pop();
             if (taskLeft != 0) pq.push({nxtTime, taskLeft});
         }
