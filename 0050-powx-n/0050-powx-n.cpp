@@ -6,7 +6,7 @@ public:
         while (n != 0) {
             if (n & 1) res = res * x;
             x = x * x;
-            n = n / 2;
+            n = n >> 1;
         }
         return res;
     }
