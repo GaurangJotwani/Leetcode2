@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/GaurangJotwani/Leetcode2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/GaurangJotwani/Leetcode2/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/GaurangJotwani/Leetcode2/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/GaurangJotwani/Leetcode2/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
