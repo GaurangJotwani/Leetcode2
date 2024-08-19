@@ -14,12 +14,10 @@ public:
     int k;
     int inorder(TreeNode* root) {
         if (root == NULL) return  -1;
-        cout << root->val << " " << k <<endl;
         int ans = inorder(root->left);
         if (ans != -1) return ans;
         k--;
         if (k == 0) return root-> val;
-        cout << root->val << " " << k <<endl;
         ans = inorder(root->right);
         if (ans != - 1) return ans;
         return -1;
