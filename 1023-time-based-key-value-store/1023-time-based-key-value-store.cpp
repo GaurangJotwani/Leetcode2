@@ -13,7 +13,8 @@ public:
         if (keyTimeMap.find(key) == keyTimeMap.end()) return "";
         auto it = keyTimeMap[key].upper_bound(timestamp);
         if (it == keyTimeMap[key].begin()) return "";
-        return prev(it)->second;
+        it--;
+        return it->second;
     }
 };
 
