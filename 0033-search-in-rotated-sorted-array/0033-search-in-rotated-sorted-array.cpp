@@ -22,7 +22,6 @@ public:
             if (nums[mid] >= nums[l]) l = mid + 1;
             else r = mid - 1;
         }
-        cout << pivIdx;
         if (target >= nums[pivIdx] && target <= nums[nums.size() - 1]) {
             l = pivIdx;
             r = nums.size() - 1;
