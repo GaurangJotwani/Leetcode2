@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
+| [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
+| [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
+| [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/1706-min-cost-to-connect-all-points) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GaurangJotwani/Leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
+| [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
@@ -519,4 +523,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
