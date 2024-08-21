@@ -11,46 +11,17 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.size() == 0) return NULL;
-        if (lists.size() == 1) return lists[0];
-        return merge(lists, 0, lists.size() - 1);
-    }
-private:
-    ListNode* merge(vector<ListNode*>& lists, int start, int end) {
-        if (start == end) return lists[start];
-        cout << start << " " << end << "\n";
-        int mid = ((start + end) / 2) - 1;
-        ListNode* h1;
-        ListNode* h2;
-        if (end - start != 1) {
-            h1 = merge(lists, start, mid);
-            h2 = merge(lists, mid + 1, end);
-        } else {
-            h1 = lists[start];
-            h2 = lists[end];
+        auto cmp = [](ListNode* l, ListNode* r) {return l->val > r->val;};
+        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> q(cmp);
+        for (auto l: lists) if (l) q.push(l);
+        ListNode* head = new ListNode(0);
+        ListNode* point = head;
+        while(!q.empty()) {
+            point->next = q.top();
+            q.pop();
+            point = point->next;
+            if (point->next) q.push(point->next);
         }
-        
-        ListNode dummy;
-        ListNode* curr = &dummy;
-        while (h1 != NULL && h2 != NULL) {
-            if (h1->val <= h2->val) {
-                curr->next = h1;
-                curr = curr->next;
-                h1 = h1->next;
-            } else {
-                curr->next = h2;
-                curr = curr->next;
-                h2 = h2->next;
-            }
-        }
-        
-        if (h1 != NULL) {
-            curr->next = h1;
-        } else if (h2 != NULL) {
-            curr->next = h2;
-        }
-        
-        return dummy.next;
-        
+        return head->next;
     }
 };
