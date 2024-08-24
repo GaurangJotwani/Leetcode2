@@ -36,10 +36,6 @@ public:
                 res.push_back(-1);
                 continue;
             }
-            if (q[1] == q[0]) {
-                res.push_back(1);
-                continue;
-            }
             double ans = bfs(q[0], q[1], adjList);
             res.push_back(ans);
         }
