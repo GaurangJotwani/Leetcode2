@@ -16,11 +16,11 @@ private:
         string tmp = "";
         for (char w: word) {
             if (w == separator) {
-                if (tmp.length() != 0) res.push_back(tmp);
+                if (!tmp.empty()) res.push_back(tmp);
                 tmp = "";
             }
             else tmp.push_back(w);
         }
-        if (tmp.length() != 0) res.push_back(tmp);
+        if (!tmp.empty()) res.push_back(tmp);
     }
 };
