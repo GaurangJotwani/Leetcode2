@@ -3,7 +3,7 @@ public:
     vector<string> splitWordsBySeparator(vector<string>& words, char separator) {
         vector<string> res;
         this->separator = separator;
-        for (auto w: words) {
+        for (auto &w: words) {
             vector<string> listOfWords;
             separate(w, listOfWords);
             for (auto s: listOfWords) res.push_back(s);
