@@ -4,15 +4,15 @@ public:
         vector<string> res;
         this->separator = separator;
         for (auto w: words) {
-            vector<string> listOfWords = separate(w);
+            vector<string> listOfWords;
+            separate(w, listOfWords);
             for (auto s: listOfWords) res.push_back(s);
         }
         return res;
     }
 private:
     char separator;
-    vector<string> separate(string &word) {
-        vector<string> res;
+    void separate(string &word, vector<string> &res) {
         string tmp = "";
         for (char w: word) {
             if (w == separator) {
@@ -22,6 +22,5 @@ private:
             else tmp.push_back(w);
         }
         if (tmp.length() != 0) res.push_back(tmp);
-        return res;
     }
 };
