@@ -1,11 +1,9 @@
 public class Solution {
     public int BestClosingTime(string customers) {
         int n = customers.Length;
-        int sum = 0;
-        for (int i = 0; i < n; i++) if (customers[i] == 'Y') sum++;
         int earliest = 0;
-        int minPenalty = sum;
-        int curPenalty = sum;
+        int minPenalty = 0;
+        int curPenalty = 0;
 
         for (int i = 0; i < n; i++) {
             if (customers[i] == 'Y') curPenalty--;
