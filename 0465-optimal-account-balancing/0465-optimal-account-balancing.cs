@@ -14,38 +14,26 @@ public class Solution {
             if (amount != 0) balances.Add(amount);
         }
         
-        // Memoization dictionary
-        Dictionary<string, int> memo = new Dictionary<string, int>();
-        
-        return dfsHelper(0, balances, memo);
+        return dfsHelper(0, balances);
     }
 
-    private int dfsHelper(int start, List<int> balances, Dictionary<string, int> memo) {
+    private int dfsHelper(int start, List<int> balances) {
         // Skip settled balances
         while (start < balances.Count && balances[start] == 0) {
             start++;
         }
         
         if (start == balances.Count) return 0;
-        
-        // Generate a unique key for the current state of balances and the start index
-        string key = start + ":" + string.Join(",", balances);
-        if (memo.ContainsKey(key)) {
-            return memo[key];
-        }
 
         int ans = int.MaxValue;
         for (int i = start + 1; i < balances.Count; i++) {
             // Only attempt to settle with opposite sign
             if (balances[i] * balances[start] < 0) {
                 balances[i] += balances[start];
-                ans = Math.Min(ans, 1 + dfsHelper(start + 1, balances, memo));
+                ans = Math.Min(ans, 1 + dfsHelper(start + 1, balances));
                 balances[i] -= balances[start];  // backtrack
             }
         }
-
-        // Store the result in the memoization dictionary
-        memo[key] = ans;
         
         return ans;
     }
