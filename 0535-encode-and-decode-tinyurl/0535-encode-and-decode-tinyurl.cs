@@ -29,7 +29,7 @@ public class Codec {
     }
 
     private long convertToBase10(string s) {
-        int res = 0;
+        long res = 0;
         foreach (char c in s) {
             res += res * 62 + sixtyTwoBit.IndexOf(c);
         }
