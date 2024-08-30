@@ -1,39 +1,28 @@
 public class Codec {
-
-    private static Dictionary<long, string> idToUrl = new Dictionary<long, string>();
-    private static readonly string sixtyTwoBit = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
-    private static long id = 1;
+    private static readonly string alphabet = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    private Dictionary<string, string> map = new Dictionary<string, string>();
+    private Random rand = new Random();
 
     // Encodes a URL to a shortened URL
     public string encode(string longUrl) {
-        idToUrl[id] = longUrl; 
-        return "http://tinyurl.com/" + convertTo62Base(id);
-        id++;
+        string key = GetRand();
+        while (map.ContainsKey(key)) key = GetRand();
+        map[key] = longUrl;
+        return "http://tinyurl.com/" + key;
     }
 
-    // Decodes a shortened URL to its original URL.
-    public string decode(string shortUrl) {
-        string[] parts = shortUrl.Split("/");
-        long decoded = convertToBase10(parts[parts.Length - 1]);
-        return idToUrl[decoded];
-    }
-
-    private string convertTo62Base(long i) {
+    private string GetRand() {
         var sb = new StringBuilder();
-        while (i > 0) {
-            sb.Append(sixtyTwoBit[(int)(i % 62)].ToString());
-            i = i / 62;
+        for (int i = 0; i < 6; i++) {
+            sb.Append(alphabet[rand.Next(62)]);
         }
         return sb.ToString();
     }
 
-    private long convertToBase10(string s) {
-        long res = 0;
-        foreach (char c in s) {
-            res += res * 62 + sixtyTwoBit.IndexOf(c);
-        }
-        return res;
+    // Decodes a shortened URL to its original URL.
+    public string decode(string shortUrl) {
+        string key = shortUrl.Replace("http://tinyurl.com/", "");
+        return map.ContainsKey(key) ? map[key] : null;
     }
 }
 
