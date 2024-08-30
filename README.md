@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
+| [0392-is-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0647-palindromic-substrings) |
 ## Binary Search
