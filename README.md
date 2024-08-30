@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/GaurangJotwani/Leetcode2/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/GaurangJotwani/Leetcode2/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
