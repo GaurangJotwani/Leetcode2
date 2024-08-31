@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/GaurangJotwani/Leetcode2/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/GaurangJotwani/Leetcode2/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/GaurangJotwani/Leetcode2/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/GaurangJotwani/Leetcode2/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/GaurangJotwani/Leetcode2/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0392-is-subsequence) |
