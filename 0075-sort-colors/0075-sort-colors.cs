@@ -4,7 +4,6 @@ public class Solution {
         int r = nums.Length - 1;
         int m = 0;
         while (m <= r) {
-            Print(nums);
             if (nums[m] == 1) {
                 m++;
             } else if (nums[m] == 0) {
@@ -20,9 +19,5 @@ public class Solution {
                 r--;
             }
         }       
-    }
-    public void Print(int[] nums) {
-        foreach(var num in nums) Console.Write(num + " ");
-        Console.WriteLine();
     }
 }
