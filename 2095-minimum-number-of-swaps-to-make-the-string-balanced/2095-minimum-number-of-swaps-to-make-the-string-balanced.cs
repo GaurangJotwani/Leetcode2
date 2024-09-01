@@ -10,6 +10,6 @@ public class Solution {
         if (res == 0) return 0;
         double tmp = ((double)Math.Abs(res)) / 2;
 
-        return (int)Math.Ceiling(tmp);
+        return (Math.Abs(res) + 1) / 2;
     }
 }
