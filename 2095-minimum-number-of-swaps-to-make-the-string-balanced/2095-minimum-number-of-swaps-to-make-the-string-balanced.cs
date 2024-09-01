@@ -8,8 +8,6 @@ public class Solution {
             if (cSum < 0) res = Math.Min(cSum, res);
         }
         if (res == 0) return 0;
-        double tmp = ((double)Math.Abs(res)) / 2;
-
         return (Math.Abs(res) + 1) / 2;
     }
 }
