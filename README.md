@@ -634,4 +634,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0187-repeated-dna-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
