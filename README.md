@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
+| [0665-non-decreasing-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0665-non-decreasing-array) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
