@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Array
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [2881-split-strings-by-separator](https://github.com/GaurangJotwani/Leetcode2/tree/master/2881-split-strings-by-separator) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
 | ------- |
