@@ -17,15 +17,12 @@ public class Solution {
         // Use two pointers to find subsequences
         int left = 0, right = n - 1;
         while (left <= right) {
-            // If the sum of the minimum and maximum values is less than or equal to target,
-            // add the number of subsequences of length (right - left) to the answer
-            if (nums[left] + nums[right] <= target) {
+            if (nums[left] + nums[right] > target) {
+                right--; // Move the right pointer left if the sum is too large
+            } else {
+                // Add the number of valid subsequences starting from 'left'
                 ans = (ans + pow2[right - left]) % mod;
-                left++;
-            }
-            // Otherwise, move the right pointer to the left
-            else {
-                right--;
+                left++; // Move the left pointer to the right
             }
         }
 
