@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Divide and Conquer
 |  |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/GaurangJotwani/Leetcode2/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/1706-min-cost-to-connect-all-points) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2058-concatenation-of-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/GaurangJotwani/Leetcode2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
