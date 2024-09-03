@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/1706-min-cost-to-connect-all-points) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2058-concatenation-of-array) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/GaurangJotwani/Leetcode2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
