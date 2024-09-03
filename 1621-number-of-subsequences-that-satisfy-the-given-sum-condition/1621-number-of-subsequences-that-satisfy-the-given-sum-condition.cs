@@ -17,7 +17,7 @@ public class Solution {
         // Use two pointers to find subsequences
         int left = 0, right = n - 1;
         while (left <= right) {
-            if (nums[left] + nums[right] > target) {
+            if (left <= right && nums[left] + nums[right] > target) {
                 right--; // Move the right pointer left if the sum is too large
             } else {
                 // Add the number of valid subsequences starting from 'left'
