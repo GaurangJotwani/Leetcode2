@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/GaurangJotwani/Leetcode2/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [0965-unique-email-addresses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0965-unique-email-addresses) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0868-push-dominoes) |
+| [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaurangJotwani/Leetcode2/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
+| [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
