@@ -5,7 +5,7 @@ public class Solution {
 
         Array.Sort(nums); // Sort the array in ascending order
 
-        for (int left = 0, right = 0; right < nums.Length; ++right) {
+        for (int left = 0, right = 0; right < nums.Length; right++) {
             currentSum += nums[right]; // Include the current element in the subarray sum
 
             // Check if the current subarray violates the condition (sum + k < nums[right] * length)
