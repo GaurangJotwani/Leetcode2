@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GaurangJotwani/Leetcode2/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1619-path-crossing](https://github.com/GaurangJotwani/Leetcode2/tree/master/1619-path-crossing) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GaurangJotwani/Leetcode2/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1619-path-crossing](https://github.com/GaurangJotwani/Leetcode2/tree/master/1619-path-crossing) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GaurangJotwani/Leetcode2/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2470-removing-stars-from-a-string) |
