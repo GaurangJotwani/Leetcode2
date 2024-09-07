@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/GaurangJotwani/Leetcode2/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/GaurangJotwani/Leetcode2/tree/master/0131-palindrome-partitioning) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/GaurangJotwani/Leetcode2/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
