@@ -23,7 +23,6 @@ public class Solution {
             var dig = int.Parse(digit_string);
             var cur = sb.ToString();
             for (int i = 0; i < dig - 1; i++) sb += (cur);
-            Console.WriteLine(sb.ToString());
             stk.Push(sb.ToString());
         }
 
