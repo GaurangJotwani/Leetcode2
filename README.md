@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
+| [0283-move-zeroes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/GaurangJotwani/Leetcode2/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaurangJotwani/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/GaurangJotwani/Leetcode2/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0392-is-subsequence) |
