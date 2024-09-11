@@ -5,13 +5,11 @@ public class Solution {
         int i = 0, j = 0, res = 0;
 
         while (i < g.Length && j < s.Length) {
-            if (s[j] >= g[i]) {
+            if (s[j++] >= g[i]) {
                 res++;
                 i++;
             }
-            j++;
         }
-
         return res;
     }
 }
