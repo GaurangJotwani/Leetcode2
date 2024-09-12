@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/GaurangJotwani/Leetcode2/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0665-non-decreasing-array) |
+| [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/GaurangJotwani/Leetcode2/tree/master/0735-asteroid-collision) |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/GaurangJotwani/Leetcode2/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/GaurangJotwani/Leetcode2/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/GaurangJotwani/Leetcode2/tree/master/0735-asteroid-collision) |
 | [1708-design-parking-system](https://github.com/GaurangJotwani/Leetcode2/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
