@@ -9,12 +9,13 @@ public class Solution {
                 else letters.Push((c, pair.freq + 1));
             } else letters.Push((c, 1));
         }
-        string res = "";
+        var res = new List<char>();
         while (letters.Count > 0) {
             var pair = letters.Peek();
             letters.Pop();
-            for (int i = 0; i < pair.freq; i++) res = pair.c + res;
+            for (int i = 0; i < pair.freq; i++) res.Add(pair.c);
         }
-        return res;
+        res.Reverse();
+        return new string(res.ToArray());
     }
 }
