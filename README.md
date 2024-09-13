@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1250-longest-common-subsequence) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
@@ -632,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/GaurangJotwani/Leetcode2/tree/master/0937-online-stock-span) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
