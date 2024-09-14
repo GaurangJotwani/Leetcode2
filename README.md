@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/GaurangJotwani/Leetcode2/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0463-island-perimeter) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/GaurangJotwani/Leetcode2/tree/master/0907-koko-eating-bananas) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/GaurangJotwani/Leetcode2/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/GaurangJotwani/Leetcode2/tree/master/0735-asteroid-collision) |
@@ -650,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
@@ -797,4 +801,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/1212-sequential-digits) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
