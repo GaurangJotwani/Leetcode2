@@ -7,7 +7,7 @@ public class Solution {
         nums = nums.ToHashSet().ToArray();
         Array.Sort(nums);
         
-        if (nums.Length == 1) return counts[nums[0]] * nums[0];
+        
         var dp = new int[nums.Length + 1];
         dp[1] = counts[nums[0]] * nums[0];
 
