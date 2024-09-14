@@ -4,8 +4,7 @@ public class Solution {
         var counts = new Dictionary<int, int>();
         foreach(var num in nums) counts[num] = counts.ContainsKey(num) ? counts[num] + 1 : 1;
         
-        var hs = nums.ToHashSet();
-        nums = hs.ToArray();
+        nums = nums.ToHashSet().ToArray();
         Array.Sort(nums);
         
         if (nums.Length == 1) return counts[nums[0]] * nums[0];
