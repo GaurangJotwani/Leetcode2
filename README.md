@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/GaurangJotwani/Leetcode2/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/GaurangJotwani/Leetcode2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/GaurangJotwani/Leetcode2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0371-sum-of-two-integers) |
@@ -755,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/GaurangJotwani/Leetcode2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/GaurangJotwani/Leetcode2/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/GaurangJotwani/Leetcode2/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
 ## Shortest Path
