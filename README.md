@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GaurangJotwani/Leetcode2/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/GaurangJotwani/Leetcode2/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/GaurangJotwani/Leetcode2/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/GaurangJotwani/Leetcode2/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GaurangJotwani/Leetcode2/tree/master/0155-min-stack) |
