@@ -607,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/GaurangJotwani/Leetcode2/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/GaurangJotwani/Leetcode2/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
@@ -814,4 +815,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/GaurangJotwani/Leetcode2/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
