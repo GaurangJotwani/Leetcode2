@@ -11,8 +11,6 @@ public class Solution {
             else if (p == "..") {
                 if (stk.Count >= 1) stk.Pop();
             } else stk.Push(p);
-            var arr = stk.ToArray();
-            foreach (var num in arr) Console.Write(num + " "); Console.WriteLine();
         }
 
         string[] res = stk.ToArray();
