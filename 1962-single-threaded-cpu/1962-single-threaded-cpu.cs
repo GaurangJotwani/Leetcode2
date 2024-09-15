@@ -35,12 +35,9 @@ public class Solution {
                 taskPtr++;
             }
 
-            // Process the task with the shortest processing time (and smallest index if there's a tie)
-            if (pq.Count > 0) {
                 var task = pq.Dequeue();
                 result.Add(task[1]);  // Add task index to result
                 time += task[0];  // Move the current time forward by the task's processing time
-            }
         }
 
         return result.ToArray();
