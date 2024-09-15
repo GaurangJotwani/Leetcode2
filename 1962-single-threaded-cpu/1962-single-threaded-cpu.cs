@@ -1,34 +1,38 @@
 public class Solution {
     public int[] GetOrder(int[][] tasks) {
-        // Priority Queue with custom comparison logic: first compare by processing time, then by index
+        int n = tasks.Length;
+
+        // Array to hold [enqueueTime, processingTime, index]
+        int[][] indexedTasks = new int[n][];
+        for (int taskIndex = 0; taskIndex < n; taskIndex++) {
+            indexedTasks[taskIndex] = new int[] { tasks[taskIndex][0], tasks[taskIndex][1], taskIndex };
+        }
+
+        // Sort tasks by enqueue time
+        Array.Sort(indexedTasks, (a, b) => a[0].CompareTo(b[0]));
+
+        // Priority queue to select task based on processing time and then index
         var pq = new PriorityQueue<int[], int[]>(
             Comparer<int[]>.Create((x, y) => {
-                int cmp = x[0].CompareTo(y[0]); // Compare by processing time
-                if (cmp == 0) return x[1].CompareTo(y[1]); // If processing time is the same, compare by index
-                return cmp;
+                if (x[0] != y[0]) return x[0].CompareTo(y[0]); // Compare processing time
+                return x[1].CompareTo(y[1]); // If processing time is same, compare index
             })
         );
 
-        // Add index to tasks array so that we can track the original order
-        var indexedTasks = tasks
-            .Select((task, index) => new int[] { task[0], task[1], index })  // [enqueueTime, processingTime, index]
-            .OrderBy(t => t[0])  // Sort tasks by enqueueTime
-            .ToArray();
-
-        int i = 0, time = 0, n = tasks.Length;
         var result = new List<int>();
+        int time = 0, taskPtr = 0;
 
         // Process tasks
-        while (i < n || pq.Count > 0) {
+        while (taskPtr < n || pq.Count > 0) {
             // If no tasks are available to process, jump to the next available task's enqueueTime
-            if (pq.Count == 0 && time < indexedTasks[i][0]) {
-                time = indexedTasks[i][0];
+            if (pq.Count == 0 && time < indexedTasks[taskPtr][0]) {
+                time = indexedTasks[taskPtr][0];
             }
 
-            // Add all tasks that are available by the current time 'time' to the priority queue
-            while (i < n && indexedTasks[i][0] <= time) {
-                pq.Enqueue(new int[] { indexedTasks[i][1], indexedTasks[i][2] }, new int[] { indexedTasks[i][1], indexedTasks[i][2] });
-                i++;
+            // Add all tasks that are available by the current time to the priority queue
+            while (taskPtr < n && indexedTasks[taskPtr][0] <= time) {
+                pq.Enqueue(new int[] { indexedTasks[taskPtr][1], indexedTasks[taskPtr][2] }, new int[] { indexedTasks[taskPtr][1], indexedTasks[taskPtr][2] });
+                taskPtr++;
             }
 
             // Process the task with the shortest processing time (and smallest index if there's a tie)
