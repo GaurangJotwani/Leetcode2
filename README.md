@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-maximum-subarray-min-product](https://github.com/GaurangJotwani/Leetcode2/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2058-concatenation-of-array) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-maximum-subarray-min-product](https://github.com/GaurangJotwani/Leetcode2/tree/master/1985-maximum-subarray-min-product) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/GaurangJotwani/Leetcode2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1985-maximum-subarray-min-product](https://github.com/GaurangJotwani/Leetcode2/tree/master/1985-maximum-subarray-min-product) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/GaurangJotwani/Leetcode2/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/GaurangJotwani/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
+| [1985-maximum-subarray-min-product](https://github.com/GaurangJotwani/Leetcode2/tree/master/1985-maximum-subarray-min-product) |
 ## Queue
 |  |
 | ------- |
