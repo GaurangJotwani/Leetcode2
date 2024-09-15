@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/GaurangJotwani/Leetcode2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/GaurangJotwani/Leetcode2/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
+| [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
 ## Bucket Sort
 |  |
 | ------- |
