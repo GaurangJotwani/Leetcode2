@@ -1,6 +1,8 @@
 class Solution:
     def openLock(self, deadends: List[str], target: str) -> int:
         s = set(deadends)
+        if "0000" in s:
+            return -1
         visited = set()
         q = deque()
         visited.add("0000")
@@ -12,8 +14,6 @@ class Solution:
             
             if num == target:
                 return moves
-            if num in s:  # Skip deadends
-                continue
             
             for i in range(4):
                 digit = int(num[i])
