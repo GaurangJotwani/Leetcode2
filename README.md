@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/GaurangJotwani/Leetcode2/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -621,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/GaurangJotwani/Leetcode2/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GaurangJotwani/Leetcode2/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/GaurangJotwani/Leetcode2/tree/master/1894-merge-strings-alternately) |
