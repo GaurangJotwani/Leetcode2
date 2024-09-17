@@ -39,6 +39,7 @@ class Solution:
                     if email in account_one_emails:
                         edges.append([i, j])
                         break
+                        
         for edge in edges:
             self.union(edge[0], edge[1], parents, ranks, accounts)
         
