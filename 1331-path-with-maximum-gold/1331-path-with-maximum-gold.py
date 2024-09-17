@@ -29,7 +29,6 @@ class Solution:
                     visited.add((r,c))
                     res = max(res, dfs(r, c))
                     visited.remove((r, c))
-                    print(res, r, c)
         
         return res
             
