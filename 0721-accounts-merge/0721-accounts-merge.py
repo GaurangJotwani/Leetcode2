@@ -18,16 +18,15 @@ class Solution:
         if (ranks[par1] > ranks[par2]):
             parents[par2] = par1
             ranks[par1] += ranks[par2]
-            accounts[par1] = [accounts[par1][0]] + sorted(list(email1.union(email2)))
+            accounts[par1] = [accounts[par1][0]] + list(email1.union(email2))
 
         else:
             parents[par1] = par2
             ranks[par2] += ranks[par1]
-            accounts[par2] = [accounts[par2][0]] + sorted(list(email1.union(email2)))
+            accounts[par2] = [accounts[par2][0]] + list(email1.union(email2))
+
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
-        
         edges = []
-        adjList = defaultdict(list)
         res = []
         parents = [i for i in range(len(accounts))]
         ranks = [1 for i in range(len(accounts))]
