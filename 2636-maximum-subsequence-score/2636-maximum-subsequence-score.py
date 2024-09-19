@@ -10,16 +10,10 @@ class Solution:
         for n1, n2 in pairs:
             csum += n1
             heapq.heappush(minheap, n1)
-
-
-            if len(minheap) > k:
-                csum -= heapq.heappop(minheap)
-            
             if len(minheap) == k:
                 res = max(res, n2 * csum)
-            
-        
-
+                csum -= heapq.heappop(minheap)
+                        
         return res
 
 
