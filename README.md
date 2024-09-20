@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2058-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GaurangJotwani/Leetcode2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/GaurangJotwani/Leetcode2/tree/master/1894-merge-strings-alternately) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2470-removing-stars-from-a-string) |
@@ -812,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1331-path-with-maximum-gold](https://github.com/GaurangJotwani/Leetcode2/tree/master/1331-path-with-maximum-gold) |
+| [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Tree
 |  |
