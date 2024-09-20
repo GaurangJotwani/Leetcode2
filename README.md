@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
+| [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0647-palindromic-substrings) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0463-island-perimeter) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
+| [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0518-coin-change-ii) |
@@ -636,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0371-sum-of-two-integers) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
+| [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/GaurangJotwani/Leetcode2/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -646,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
+| [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 ## Design
@@ -804,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/GaurangJotwani/Leetcode2/tree/master/0131-palindrome-partitioning) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
+| [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1331-path-with-maximum-gold](https://github.com/GaurangJotwani/Leetcode2/tree/master/1331-path-with-maximum-gold) |
