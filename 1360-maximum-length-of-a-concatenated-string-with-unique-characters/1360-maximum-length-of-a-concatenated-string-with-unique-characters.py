@@ -13,7 +13,6 @@ class Solution:
             if canAdd:
                 new_arr.append(word)
         
-        print(new_arr)
         arr = new_arr
 
         res = [0]
