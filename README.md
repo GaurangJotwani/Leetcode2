@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/GaurangJotwani/Leetcode2/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [1331-path-with-maximum-gold](https://github.com/GaurangJotwani/Leetcode2/tree/master/1331-path-with-maximum-gold) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1380-number-of-closed-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/1380-number-of-closed-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GaurangJotwani/Leetcode2/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bitmask
 |  |
@@ -849,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1331-path-with-maximum-gold](https://github.com/GaurangJotwani/Leetcode2/tree/master/1331-path-with-maximum-gold) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/GaurangJotwani/Leetcode2/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
