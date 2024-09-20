@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Eulerian Circuit
 |  |
