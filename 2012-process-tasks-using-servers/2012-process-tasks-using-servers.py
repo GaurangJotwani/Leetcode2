@@ -11,6 +11,8 @@ class Solution:
         task_index = 0
 
         while task_index < n:
+            if not available:
+                time = unavailable[0][0]
             # Push servers back to available if their busy time has elapsed
             while unavailable and unavailable[0][0] <= time:
                 _, weight, index = heappop(unavailable)
@@ -24,10 +26,8 @@ class Solution:
                 task_index += 1
 
             # If no servers are available, fast-forward time to when the next server becomes available
-            if not available:
-                time = unavailable[0][0]
-            else:
-                time += 1
+        
+            time += 1
 
         return ans
 
