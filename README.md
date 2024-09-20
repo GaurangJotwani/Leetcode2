@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Graph
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Eulerian Circuit
 |  |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Union Find
 |  |
@@ -866,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
