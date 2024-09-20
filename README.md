@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/1706-min-cost-to-connect-all-points) |
+| [1762-furthest-building-you-can-reach](https://github.com/GaurangJotwani/Leetcode2/tree/master/1762-furthest-building-you-can-reach) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/GaurangJotwani/Leetcode2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
+| [1762-furthest-building-you-can-reach](https://github.com/GaurangJotwani/Leetcode2/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
 | [2636-maximum-subsequence-score](https://github.com/GaurangJotwani/Leetcode2/tree/master/2636-maximum-subsequence-score) |
 ## Bucket Sort
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1762-furthest-building-you-can-reach](https://github.com/GaurangJotwani/Leetcode2/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
