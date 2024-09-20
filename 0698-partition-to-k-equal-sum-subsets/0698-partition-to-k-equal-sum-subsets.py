@@ -6,7 +6,6 @@ class Solution:
             return False
 
         target = total // k
-        nums.sort(reverse=True)  # Sort in descending order to place larger numbers first
 
         if nums[0] > target:  # Early exit if the largest number is greater than the target sum
             return False
