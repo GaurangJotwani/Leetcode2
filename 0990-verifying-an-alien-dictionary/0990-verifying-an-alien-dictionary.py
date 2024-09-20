@@ -15,7 +15,6 @@ class Solution:
         while i < len(word1) and j < len(word2):
             w1 = order.index(word1[i])
             w2 = order.index(word2[i])
-            print(w1)
 
             if w2 < w1:
                 return False
