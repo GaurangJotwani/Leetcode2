@@ -8,7 +8,6 @@ class Solution:
             heapq.heappush(pq, (-val, key))
 
         while pq:
-            print(res, pq)
             cnt, let = heapq.heappop(pq)
 
             if res and res[-1] == let:
