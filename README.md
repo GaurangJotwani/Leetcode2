@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/GaurangJotwani/Leetcode2/tree/master/0820-find-eventual-safe-states) |
+| [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -900,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
