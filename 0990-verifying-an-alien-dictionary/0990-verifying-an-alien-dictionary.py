@@ -11,7 +11,6 @@ class Solution:
     
     def inOrder(self, word1, word2, order):
         i, j = 0, 0
-        print(word1, word2)
         while i < len(word1) and j < len(word2):
             w1 = order.index(word1[i])
             w2 = order.index(word2[i])
