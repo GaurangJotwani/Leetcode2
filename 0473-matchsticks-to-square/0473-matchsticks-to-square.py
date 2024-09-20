@@ -6,7 +6,6 @@ class Solution:
         if total % 4:
             return False
         target = total // 4
-        matchsticks.sort(reverse=True)
 
         used = [False for i in range(n)]
         def dfs(i, cSum, groups):
