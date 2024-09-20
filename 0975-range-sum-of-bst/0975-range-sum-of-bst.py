@@ -12,11 +12,15 @@ class Solution:
                 return 0
             
             ans = 0
-            if low <= node.val <= high:
-                ans = node.val
             
-            ans += dfs(node.left)
-            ans += dfs(node.right)
+            if node.val > high:
+                ans += dfs(node.left)
+            elif node.val < low:
+                ans += dfs(node.right)
+            else:
+                ans += node.val
+                ans += dfs(node.left)
+                ans += dfs(node.right)
 
             return ans
         
