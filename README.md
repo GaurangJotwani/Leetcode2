@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/GaurangJotwani/Leetcode2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/GaurangJotwani/Leetcode2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Eulerian Circuit
 |  |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/GaurangJotwani/Leetcode2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Union Find
 |  |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-number-of-closed-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/GaurangJotwani/Leetcode2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
