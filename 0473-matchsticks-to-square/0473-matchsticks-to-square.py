@@ -24,6 +24,9 @@ class Solution:
                 if dfs(j + 1,  cSum + matchsticks[j], groups):
                     return True
                 used[j] = False
+
+                if cSum == 0:
+                    break
             
             return False
         
