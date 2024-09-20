@@ -11,7 +11,6 @@ class Solution:
             
             while q:
                 node, d = q.popleft()
-                print(node, d)
                 nei = edges[node]
 
                 if nei != -1 and vis[nei] == -1:
