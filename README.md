@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/GaurangJotwani/Leetcode2/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/GaurangJotwani/Leetcode2/tree/master/0820-find-eventual-safe-states) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/GaurangJotwani/Leetcode2/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/GaurangJotwani/Leetcode2/tree/master/0820-find-eventual-safe-states) |
@@ -910,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -991,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 ## Data Stream
 |  |
