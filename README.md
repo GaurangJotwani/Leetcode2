@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/GaurangJotwani/Leetcode2/tree/master/0820-find-eventual-safe-states) |
+| [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/GaurangJotwani/Leetcode2/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/GaurangJotwani/Leetcode2/tree/master/1325-path-with-maximum-probability) |
 | [1558-course-schedule-iv](https://github.com/GaurangJotwani/Leetcode2/tree/master/1558-course-schedule-iv) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0966-binary-subarrays-with-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GaurangJotwani/Leetcode2/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
