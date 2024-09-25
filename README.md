@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
+| [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GaurangJotwani/Leetcode2/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/GaurangJotwani/Leetcode2/tree/master/1025-minimum-cost-for-tickets) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
+| [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
+| [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/GaurangJotwani/Leetcode2/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
@@ -586,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -684,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
+| [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -773,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/GaurangJotwani/Leetcode2/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GaurangJotwani/Leetcode2/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/GaurangJotwani/Leetcode2/tree/master/1894-merge-strings-alternately) |
