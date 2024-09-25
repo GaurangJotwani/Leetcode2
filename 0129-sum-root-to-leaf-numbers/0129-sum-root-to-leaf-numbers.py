@@ -7,23 +7,23 @@
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
 
-        res = [0]
         def helper(node, cSum):
-           
             cSum = cSum * 10 + node.val
-
+            
             if not node.left and not node.right:    
-                res[0] += cSum
-                return
+                return cSum
+            
+            ans = 0
             
             if node.left:
-                helper(node.left, cSum)
+                ans += helper(node.left, cSum)
             
             if node.right:
-                helper(node.right, cSum)
+                ans += helper(node.right, cSum)
             
-        helper(root, 0)
-        return res[0]
+            return ans
+            
+        return helper(root, 0)
             
 
             
