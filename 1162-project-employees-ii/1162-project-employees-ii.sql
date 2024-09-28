@@ -1,23 +1,14 @@
-WITH ProjectEmployeeCount AS (
-    SELECT p.project_id, COUNT(*) AS employee_count
-    FROM Project AS p
-    JOIN Employee AS E ON p.employee_id = e.employee_id
-    GROUP BY p.project_id 
-)
+# Write your MySQL query statement below
+
+
+
 SELECT project_id
-FROM ProjectEmployeeCount
-WHERE employee_count = (SELECT MAX(employee_count) FROM ProjectEmployeeCount)
-
--- WITH ProjectEmployeeCount AS (
---     SELECT p.project_id, COUNT(*) AS employee_count
---     FROM Project AS p
---     JOIN Employee AS E ON p.employee_id = e.employee_id
---     GROUP BY p.project_id
--- )
--- SELECT project_id
--- FROM ProjectEmployeeCount
--- WHERE employee_count = (
---     SELECT MAX(employee_count)
---     FROM ProjectEmployeeCount
--- );
-
+FROM Project
+GROUP BY project_id
+HAVING COUNT(employee_id) = (
+    SELECT COUNT(employee_id)
+    FROM Project
+    GROUP BY project_id
+    ORDER BY COUNT(employee_id) DESC
+    LIMIT 1
+)
