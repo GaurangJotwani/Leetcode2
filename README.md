@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0176-second-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/GaurangJotwani/Leetcode2/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1162-project-employees-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1162-project-employees-ii) |
 | [1686-fix-product-name-format](https://github.com/GaurangJotwani/Leetcode2/tree/master/1686-fix-product-name-format) |
 | [1908-recyclable-and-low-fat-products](https://github.com/GaurangJotwani/Leetcode2/tree/master/1908-recyclable-and-low-fat-products) |
