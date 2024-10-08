@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0176-second-highest-salary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/GaurangJotwani/Leetcode2/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0595-big-countries](https://github.com/GaurangJotwani/Leetcode2/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0610-triangle-judgement) |
 | [1162-project-employees-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1162-project-employees-ii) |
 | [1258-article-views-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/1258-article-views-i) |
