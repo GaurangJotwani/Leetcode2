@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-project-employees-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1162-project-employees-ii) |
 | [1258-article-views-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/1258-article-views-i) |
 | [1686-fix-product-name-format](https://github.com/GaurangJotwani/Leetcode2/tree/master/1686-fix-product-name-format) |
+| [1811-fix-names-in-a-table](https://github.com/GaurangJotwani/Leetcode2/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/GaurangJotwani/Leetcode2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/GaurangJotwani/Leetcode2/tree/master/2087-confirmation-rate) |
 ## Math
