@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/GaurangJotwani/Leetcode2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/GaurangJotwani/Leetcode2/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/GaurangJotwani/Leetcode2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -982,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -1012,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
