@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1522-stone-game-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1522-stone-game-iii) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1906-maximize-score-after-n-operations) |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/GaurangJotwani/Leetcode2/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -857,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/GaurangJotwani/Leetcode2/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1794-minimize-deviation-in-array) |
