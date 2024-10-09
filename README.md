@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GaurangJotwani/Leetcode2/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/GaurangJotwani/Leetcode2/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0778-reorganize-string) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GaurangJotwani/Leetcode2/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1708-design-parking-system](https://github.com/GaurangJotwani/Leetcode2/tree/master/1708-design-parking-system) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GaurangJotwani/Leetcode2/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
