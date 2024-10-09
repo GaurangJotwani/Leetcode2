@@ -1,23 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-
+        mp = { ")": "(", "]": "[", "}":"{"}
         stack = []
-        pairs = {")":"(", "}":"{", "]":"["}
-
-        for char in s:
-            if char in pairs:
-                if not stack or stack[-1] != pairs[char]:
-                    return False
-                stack.pop()
+        for c in s:
+            if c not in mp:
+                stack.append(c)
                 continue
-            
-            stack.append(char)
-        return len(stack) == 0
-    
-    def test_1(self):
-        assert(self.isValid("(((())))") == True)
-        assert(self.isValid("(((()))))") == False)
-        assert(self.isValid("()()}") == False)
-
-
-        
+            if not stack or stack[-1] != mp[c]:
+                return False
+            stack.pop()
+        return not stack
