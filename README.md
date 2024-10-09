@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
 | [0441-arranging-coins](https://github.com/GaurangJotwani/Leetcode2/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
+| [0796-reaching-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/0796-reaching-points) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
