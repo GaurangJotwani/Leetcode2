@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/GaurangJotwani/Leetcode2/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/GaurangJotwani/Leetcode2/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/GaurangJotwani/Leetcode2/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/GaurangJotwani/Leetcode2/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/GaurangJotwani/Leetcode2/tree/master/1753-path-with-minimum-effort) |
@@ -902,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/GaurangJotwani/Leetcode2/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1252-break-a-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
