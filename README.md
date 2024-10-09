@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1522-stone-game-iii) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1906-maximize-score-after-n-operations) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GaurangJotwani/Leetcode2/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/GaurangJotwani/Leetcode2/tree/master/1894-merge-strings-alternately) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/GaurangJotwani/Leetcode2/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
