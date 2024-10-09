@@ -749,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/GaurangJotwani/Leetcode2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2881-split-strings-by-separator](https://github.com/GaurangJotwani/Leetcode2/tree/master/2881-split-strings-by-separator) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -880,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/GaurangJotwani/Leetcode2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
 | ------- |
