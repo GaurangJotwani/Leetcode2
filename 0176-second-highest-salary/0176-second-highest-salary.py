@@ -2,13 +2,13 @@ import pandas as pd
 
 def second_highest_salary(employee: pd.DataFrame) -> pd.DataFrame:
     
-    employee = employee.drop_duplicates(["salary"])
-    if len(employee["salary"].unique()) < 2:
-        return pd.DataFrame({"SecondHighestSalary": [np.NaN]})
     
-    emp = employee.sort_values("salary", ascending=False)
-    emp.drop("id", axis=1, inplace = True)
+    distinct_salaries = employee['salary'].drop_duplicates()
 
-    emp.rename({"salary": "SecondHighestSalary"}, axis = 1, inplace = True)
-
-    return emp.head(2).tail(1)
+    if len(distinct_salaries) < 2:
+        second_highest_salary = None
+    else:
+        top_two_salaries = distinct_salaries.nlargest(2)
+        second_highest_salary = top_two_salaries.iloc[-1]
+    
+    return pd.DataFrame({'SecondHighestSalary': [second_highest_salary]})
