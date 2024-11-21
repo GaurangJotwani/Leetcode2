@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0219-contains-duplicate-ii) |
@@ -837,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/GaurangJotwani/Leetcode2/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
@@ -1164,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GaurangJotwani/Leetcode2/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GaurangJotwani/Leetcode2/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
@@ -1215,4 +1218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1906-maximize-score-after-n-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1906-maximize-score-after-n-operations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
