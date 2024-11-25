@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/GaurangJotwani/Leetcode2/tree/master/0118-pascals-triangle) |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/GaurangJotwani/Leetcode2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0229-majority-element-ii) |
@@ -857,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/GaurangJotwani/Leetcode2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0283-move-zeroes) |
