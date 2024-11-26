@@ -1,29 +1,33 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
         
-        res = []
-        pq = []
-        freq = Counter(s)
-        for key,val in freq.items():
-            heapq.heappush(pq, (-val, key))
+        minHeap = []
+        ans = []
+        cntr = Counter(s)
+        # print(cntr)
+        for key, val in cntr.items():
+            heapq.heappush(minHeap, (-val, key))
+        
+        while len(minHeap) >= 2:
+            freq1, key1 = heappop(minHeap)
+            ans.append(key1)
+            freq2, key2 = heappop(minHeap)
+            ans.append(key2)
+            freq1 += 1
+            freq2 += 1
+            if freq1 < 0:
+                heappush(minHeap, (freq1, key1))
+            if freq2 < 0:
+                heappush(minHeap, (freq2, key2))
+        
+        # print(minHeap)
+        # print(ans)
+        if not minHeap:
+            return "".join(ans)
+        
+        if -1 * minHeap[0][0] > 1:
+            return ""
+        
+        ans.append(minHeap[0][1])
+        return "".join(ans)
 
-        while pq:
-            cnt, let = heapq.heappop(pq)
-
-            if res and res[-1] == let:
-                if not pq:
-                    return ""
-                cnt2, let2 = heapq.heappop(pq)
-                heapq.heappush(pq, (cnt, let))
-                res.append(let2)
-                cnt2 += 1
-                if cnt2 != 0:
-                    heapq.heappush(pq, (cnt2, let2))
-            
-            else:
-                res.append(let)
-                cnt += 1
-                if cnt != 0:
-                    heapq.heappush(pq,(cnt, let))
-
-        return "".join(res)
