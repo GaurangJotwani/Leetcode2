@@ -10,27 +10,18 @@ class Node:
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         
-        
-        copyHashMap = {None:None}
-        
-        curr = head
-        dummy = Node(0)
-        l = dummy
-        while curr:
-            newNode = Node(curr.val, None, None)
-            copyHashMap[curr] = newNode
-            l.next = newNode
-            l = l.next
-            curr = curr.next
-        
-        curr1 = head
-        curr2 = dummy.next
-        while curr1:
-            curr2.random = copyHashMap[curr1.random]
-            curr1 = curr1.next
-            curr2 = curr2.next
-        
-        return dummy.next
+        visited = {}
+
+        def dfs(node):
+            if not node:
+                return None
+            if node in visited:
+                return visited[node]
             
-            
+            new_node = Node(node.val, None, None)
+            visited[node] = new_node
+            new_node.next = dfs(node.next)
+            new_node.random = dfs(node.random)
+            return new_node
         
+        return dfs(head)
