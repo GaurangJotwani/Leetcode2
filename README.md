@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/GaurangJotwani/Leetcode2/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/GaurangJotwani/Leetcode2/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0187-repeated-dna-sequences) |
@@ -1172,6 +1173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GaurangJotwani/Leetcode2/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GaurangJotwani/Leetcode2/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/GaurangJotwani/Leetcode2/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
