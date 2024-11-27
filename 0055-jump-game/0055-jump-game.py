@@ -1,9 +1,7 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         
-        
-        if len(nums) == 1:
-            return True
+
         finishLine = len(nums) - 1
         i = finishLine
 
