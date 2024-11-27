@@ -3,18 +3,17 @@ class Solution:
         
         ROWS, COLS = len(board), len(board[0])
         dir = [[0,1],[0,-1],[1,0],[-1, 0]]
+        dp = {}
         seen = set()
         
         def dfs(r, c, idx):
-            
-            
             
             if board[r][c] != word[idx]:
                 return False
             
             if idx == len(word) - 1:
                 return True
-            
+
             for dr,dc in dir:
                 row, col = r + dr, c + dc
                 if 0 <= row < ROWS and 0 <= col < COLS and (row, col) not in seen:
