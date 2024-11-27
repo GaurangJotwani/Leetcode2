@@ -1,6 +1,6 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        cur = res = prev = 0
+        res = prev = 0
         cur_operation = "+"
 
         i = 0
@@ -9,6 +9,7 @@ class Solution:
 
             curr_char = s[i]
             if curr_char.isdigit():
+                cur = 0
                 while i < len(s) and s[i].isdigit():
                     cur = cur * 10 + int(s[i])
                     i += 1
@@ -29,7 +30,6 @@ class Solution:
                     prev = int(prev / cur)
             elif curr_char != " ":
                 cur_operation = s[i]
-            cur = 0
             i += 1
         
         return res
