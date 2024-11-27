@@ -3,7 +3,7 @@ class Solution:
         
 
         finishLine = len(nums) - 1
-        i = finishLine
+        i = finishLine - 1
 
         while i >= 0:
             if i + nums[i] >= finishLine:
