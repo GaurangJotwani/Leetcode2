@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/GaurangJotwani/Leetcode2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/GaurangJotwani/Leetcode2/tree/master/0342-power-of-four) |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0344-reverse-string) |
@@ -979,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/GaurangJotwani/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GaurangJotwani/Leetcode2/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0402-remove-k-digits) |
