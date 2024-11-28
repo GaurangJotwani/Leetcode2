@@ -12,7 +12,7 @@ class Solution:
         def dfs(node):
 
             if not node:
-                return float("-inf")
+                return 0
 
             if not node.left and not node.right:
                 res[0] = max(res[0], node.val)
