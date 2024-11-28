@@ -1,6 +1,5 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        ans = ""
         stack = []
 
         for i, char in enumerate(s):
@@ -19,5 +18,5 @@ class Solution:
                 stack.append(tmp2)
             else:
                 stack.append(char)
-        print(stack)
+
         return "".join(stack)
