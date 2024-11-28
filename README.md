@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -1069,6 +1070,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/GaurangJotwani/Leetcode2/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
@@ -1101,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/GaurangJotwani/Leetcode2/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0606-construct-string-from-binary-tree) |
