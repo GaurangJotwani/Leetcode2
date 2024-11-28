@@ -8,5 +8,4 @@ class Solution:
             for j in range(n - 1, -1, -1):
                 dp[i][j] = dp[i + 1][j] + dp[i][j + 1]
         
-        print(dp)
         return dp[0][0]
