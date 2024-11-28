@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GaurangJotwani/Leetcode2/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GaurangJotwani/Leetcode2/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/GaurangJotwani/Leetcode2/tree/master/1126-minimum-cost-to-connect-sticks) |
@@ -671,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1306-minimum-absolute-difference](https://github.com/GaurangJotwani/Leetcode2/tree/master/1306-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
