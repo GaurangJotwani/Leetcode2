@@ -13,7 +13,6 @@ class Solution:
             i += 1
         
         all_factors.sort()
-        print(all_factors)
         if k > len(all_factors): return -1
         return all_factors[k - 1]
 
