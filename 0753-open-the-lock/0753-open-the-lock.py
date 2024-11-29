@@ -1,39 +1,38 @@
 class Solution:
     def openLock(self, deadends: List[str], target: str) -> int:
-        s = set(deadends)
-        if "0000" in s:
-            return -1
-        visited = set()
+
         q = deque()
+        
+        deadends =set(deadends)
+        if "0000" in deadends:
+            return -1
+        q.append(([0,0,0,0],0,"0000"))
+        visited = set()
         visited.add("0000")
-        q.append(["0000", 0])
 
         while q:
-            node = q.popleft()
-            num, moves = node[0], node[1]
-            
-            if num == target:
-                return moves
-            
+            lst,d,key = q.popleft()
+            if key == target:
+                return d
             for i in range(4):
-                digit = int(num[i])
-                
-                # Turn the wheel forward
-                new_num_forward = num[:i] + str((digit + 1) % 10) + num[i + 1:]
-                if new_num_forward not in visited and new_num_forward not in s:
-                    q.append([new_num_forward, moves + 1])
-                    visited.add(new_num_forward)
-                
-                # Turn the wheel backward
-                new_num_backward = num[:i] + str((digit - 1) % 10) + num[i + 1:]
-                if new_num_backward not in visited and new_num_backward not in s:
-                    q.append([new_num_backward, moves + 1])
-                    visited.add(new_num_backward)
+                new_lst = [num for num in lst]
+                new_lst[i] = new_lst[i] + 1 if new_lst[i] != 9 else 0
+                key = "".join([str(num) for num in new_lst])
+                if key not in visited and key not in deadends:
+                    visited.add(key)
+                    q.append((new_lst, d + 1, key))
+
+            for i in range(4):
+                new_lst = [num for num in lst]
+                new_lst[i] = new_lst[i] - 1 if new_lst[i] != 0 else 9
+                key = "".join([str(num) for num in new_lst])
+                if key not in visited and key not in deadends:
+                    visited.add(key)
+                    q.append((new_lst, d + 1, key))
         
         return -1
+                
+            
 
-
-
-        
 
         
