@@ -15,8 +15,7 @@ class Solution:
 
             if nums[i] <= lower:
                 return False
-        
-        print(nums)
+                
         return True
         
 
