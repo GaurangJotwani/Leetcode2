@@ -2,7 +2,7 @@ class Solution:
     def primeSubOperation(self, nums: List[int]) -> bool:
 
         list_of_primes = [0]
-        for i in range(2, 1001):
+        for i in range(2, max(nums) + 1):
             if self.isPrime(i):
                 list_of_primes.append(i)
         
@@ -15,7 +15,7 @@ class Solution:
 
             if nums[i] <= lower:
                 return False
-                
+
         return True
         
 
