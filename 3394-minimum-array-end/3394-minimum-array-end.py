@@ -21,9 +21,9 @@ class Solution:
         posN = 0
 
         # Step 3: Combine binary representation of x and n-1
-        while posX < 63:
+        while posX < 64:
             # Traverse binaryX until we find a 0 bit
-            while binaryX[posX] != 0 and posX < 63:
+            while binaryX[posX] != 0 and posX < 64:
                 posX += 1
             # Copy bits from binaryN (n-1) into binaryX (x) starting from the first 0
             binaryX[posX] = binaryN[posN]
