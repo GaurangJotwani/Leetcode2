@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/GaurangJotwani/Leetcode2/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GaurangJotwani/Leetcode2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/GaurangJotwani/Leetcode2/tree/master/1753-path-with-minimum-effort) |
@@ -945,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GaurangJotwani/Leetcode2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/GaurangJotwani/Leetcode2/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
