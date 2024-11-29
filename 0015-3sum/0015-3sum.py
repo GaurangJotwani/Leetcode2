@@ -3,7 +3,6 @@ class Solution:
         nums.sort()
         res = []
         i = 0
-        print(nums)
         while i < len(nums) - 2:
             cNum = nums[i]
             l = i + 1
@@ -27,7 +26,6 @@ class Solution:
             while i < len(nums) - 2 and nums[i] == cNum:
                 i += 1
         
-        print(res)
         return res
         
             
