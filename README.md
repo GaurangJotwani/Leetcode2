@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/GaurangJotwani/Leetcode2/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/GaurangJotwani/Leetcode2/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/GaurangJotwani/Leetcode2/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/GaurangJotwani/Leetcode2/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0665-non-decreasing-array) |
@@ -647,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0971-shortest-bridge) |
