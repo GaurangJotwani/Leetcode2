@@ -7,7 +7,7 @@ class Solution:
         #LIS
         sub = []
         for num in arr2:
-            idx = bisect_left(sub, num)
+            idx = self.binary_search(sub, num)
             if idx >= len(sub):
                 sub.append(num)
             else:
@@ -19,7 +19,7 @@ class Solution:
         l,r = 0, len(arr) - 1
         while l <= r:
             mid = (l + r) // 2
-            if arr[mid] > num:
+            if arr[mid] >= num:
                 r = mid - 1
             else:
                 l = mid + 1
