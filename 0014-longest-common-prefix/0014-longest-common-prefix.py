@@ -3,13 +3,12 @@ class Solution:
 
         curr_len = 1
         res = ""
-
         while True:
             if curr_len > len(strs[0]):
                 return res
             c_prefix = strs[0][:curr_len]
             for s in strs:
-                if len(c_prefix) > len(s) or c_prefix != s[:curr_len]:
+                if len(c_prefix) > len(s) or not s.startswith(c_prefix):
                     return res
             curr_len += 1
             res = c_prefix
