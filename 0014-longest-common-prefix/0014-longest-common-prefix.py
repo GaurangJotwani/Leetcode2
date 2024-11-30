@@ -1,28 +1,19 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
+
+        curr_len = 1
+        res = ""
+
+        while True:
+            if curr_len > len(strs[0]):
+                return res
+            c_prefix = strs[0][:curr_len]
+            for s in strs:
+                if len(c_prefix) > len(s) or c_prefix != s[:curr_len]:
+                    return res
+            curr_len += 1
+            res = c_prefix
         
-        ans = ""
-        smallest = ""
-        n = float("inf")
-        for word in strs:
-            if len(word) < n:
-                smallest = word
-                n = len(word)
-        left, right = 0, len(smallest) - 1
-        while left <= right:
-            mid = (left + right) // 2
-            c_pot = smallest[:mid + 1]
-            if self.isCommon(c_pot, strs):
-                ans = c_pot
-                left = mid + 1
-            else:
-                right = mid - 1
-        return ans
-    
-    def isCommon(self, pot, strs):
-        n = len(pot)
-        for word in strs:
-            if word[:n] != pot:
-                return False
-        return True
+
+                
         
