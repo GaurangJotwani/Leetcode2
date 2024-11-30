@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1619-path-crossing](https://github.com/GaurangJotwani/Leetcode2/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1794-minimize-deviation-in-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1794-minimize-deviation-in-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1906-maximize-score-after-n-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1906-maximize-score-after-n-operations) |
 | [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -971,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/GaurangJotwani/Leetcode2/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GaurangJotwani/Leetcode2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1003,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-minimum-suffix-flips](https://github.com/GaurangJotwani/Leetcode2/tree/master/1652-minimum-suffix-flips) |
 | [1762-furthest-building-you-can-reach](https://github.com/GaurangJotwani/Leetcode2/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1794-minimize-deviation-in-array) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
