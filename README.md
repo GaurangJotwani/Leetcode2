@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/GaurangJotwani/Leetcode2/tree/master/0744-network-delay-time) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/GaurangJotwani/Leetcode2/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0753-open-the-lock) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
@@ -816,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/GaurangJotwani/Leetcode2/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0753-open-the-lock) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0778-reorganize-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0868-push-dominoes) |
 | [0965-unique-email-addresses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0965-unique-email-addresses) |
@@ -1136,6 +1139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
