@@ -6,7 +6,6 @@ class Solution:
 
         while r < len(nums):
             cNum = nums[r]
-            print(idx, r, cNum)
             if r + 2 < len(nums) and nums[r + 2] == cNum:
                 nums[idx] = cNum
                 nums[idx + 1] = cNum
