@@ -4,11 +4,18 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         
-        res = [-1] * len(nums)
+        k = k % len(nums)
 
-        for i,num in enumerate(nums):
-            idx = (i + k) % len(nums)
-            res[idx] = num
+        self.reverse(nums, len(nums) - k, len(nums) - 1)
+        self.reverse(nums, 0, len(nums) - k - 1)
+        self.reverse(nums, 0, len(nums) - 1)
+
+
+    
+    def reverse(self, nums, l ,r):
+        while l < r:
+            nums[r], nums[l] = nums[l], nums[r]
+            l += 1
+            r -= 1
         
-        for i,num in enumerate(res):
-            nums[i] = num
+        
