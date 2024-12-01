@@ -4,21 +4,18 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         
-        left, c_idx, right = 0, 0, len(nums) - 1
 
-        while c_idx <= right:
-            c_num = nums[c_idx]
-            if c_num == 2:
-                nums[c_idx], nums[right] = nums[right], nums[c_idx]
-                right -= 1
-            
-            elif c_num == 0:
-                nums[c_idx], nums[left] = nums[left], nums[c_idx]
+        l = m = 0
+        r = len(nums) - 1
 
-                left += 1
-                c_idx += 1
+        while m <= r:
+            if nums[m] == 1:
+                m += 1
+            elif nums[m] == 0:
+                nums[l], nums[m] = nums[m], nums[l]
+                l += 1
+                m += 1
             else:
-                c_idx += 1
-
-
-
+                nums[m], nums[r] = nums[r], nums[m]
+                r -= 1
+        
