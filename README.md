@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/GaurangJotwani/Leetcode2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GaurangJotwani/Leetcode2/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0213-house-robber-ii) |
@@ -931,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0283-move-zeroes) |
