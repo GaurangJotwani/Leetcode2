@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GaurangJotwani/Leetcode2/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaurangJotwani/Leetcode2/tree/master/0217-contains-duplicate) |
@@ -664,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/GaurangJotwani/Leetcode2/tree/master/0286-walls-and-gates) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
@@ -808,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0187-repeated-dna-sequences) |
+| [0212-word-search-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/GaurangJotwani/Leetcode2/tree/master/0243-shortest-word-distance) |
@@ -1115,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/GaurangJotwani/Leetcode2/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
 | [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
@@ -1221,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/GaurangJotwani/Leetcode2/tree/master/0472-concatenated-words) |
 ## Recursion
 |  |
