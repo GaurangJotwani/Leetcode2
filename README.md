@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3654-minimum-array-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/3654-minimum-array-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3654-minimum-array-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/3654-minimum-array-sum) |
 ## Prefix Sum
 |  |
 | ------- |
