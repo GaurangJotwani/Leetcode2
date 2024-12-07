@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GaurangJotwani/Leetcode2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GaurangJotwani/Leetcode2/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -1003,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GaurangJotwani/Leetcode2/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GaurangJotwani/Leetcode2/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -1038,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/GaurangJotwani/Leetcode2/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GaurangJotwani/Leetcode2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GaurangJotwani/Leetcode2/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
 | [2636-maximum-subsequence-score](https://github.com/GaurangJotwani/Leetcode2/tree/master/2636-maximum-subsequence-score) |
 | [2716-prime-subtraction-operation](https://github.com/GaurangJotwani/Leetcode2/tree/master/2716-prime-subtraction-operation) |
