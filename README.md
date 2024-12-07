@@ -600,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GaurangJotwani/Leetcode2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2165-plates-between-candles](https://github.com/GaurangJotwani/Leetcode2/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GaurangJotwani/Leetcode2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/GaurangJotwani/Leetcode2/tree/master/1985-maximum-subarray-min-product) |
+| [2165-plates-between-candles](https://github.com/GaurangJotwani/Leetcode2/tree/master/2165-plates-between-candles) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/GaurangJotwani/Leetcode2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -874,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GaurangJotwani/Leetcode2/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2165-plates-between-candles](https://github.com/GaurangJotwani/Leetcode2/tree/master/2165-plates-between-candles) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GaurangJotwani/Leetcode2/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1008,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GaurangJotwani/Leetcode2/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2165-plates-between-candles](https://github.com/GaurangJotwani/Leetcode2/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GaurangJotwani/Leetcode2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2699-count-the-number-of-fair-pairs) |
