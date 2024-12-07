@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GaurangJotwani/Leetcode2/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/GaurangJotwani/Leetcode2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Prefix Sum
 |  |
@@ -1319,6 +1322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1212-sequential-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/1212-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
