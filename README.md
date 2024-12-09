@@ -887,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2487-optimal-partition-of-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/GaurangJotwani/Leetcode2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2881-split-strings-by-separator](https://github.com/GaurangJotwani/Leetcode2/tree/master/2881-split-strings-by-separator) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GaurangJotwani/Leetcode2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
@@ -980,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaurangJotwani/Leetcode2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/GaurangJotwani/Leetcode2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GaurangJotwani/Leetcode2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
