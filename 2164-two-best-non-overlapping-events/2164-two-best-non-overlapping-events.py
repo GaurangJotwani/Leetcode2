@@ -15,7 +15,5 @@ class Solution:
             if non_overlapping:
                 res = max(res, v + -1 * non_overlapping[0][0])
             heappush(overlapping, (e,s,v))
-            print(overlapping)
-            print(non_overlapping)
 
         return res
