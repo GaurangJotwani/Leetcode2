@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
 | [0441-arranging-coins](https://github.com/GaurangJotwani/Leetcode2/tree/master/0441-arranging-coins) |
+| [0670-maximum-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
 | [0796-reaching-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/0796-reaching-points) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
@@ -1059,6 +1060,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/GaurangJotwani/Leetcode2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/GaurangJotwani/Leetcode2/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
