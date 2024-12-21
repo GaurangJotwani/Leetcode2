@@ -515,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0362-design-hit-counter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0362-design-hit-counter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0286-walls-and-gates](https://github.com/GaurangJotwani/Leetcode2/tree/master/0286-walls-and-gates) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0314-binary-tree-vertical-order-traversal](https://github.com/GaurangJotwani/Leetcode2/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/GaurangJotwani/Leetcode2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/GaurangJotwani/Leetcode2/tree/master/0502-ipo) |
@@ -774,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/GaurangJotwani/Leetcode2/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
@@ -1026,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0362-design-hit-counter) |
 | [0367-valid-perfect-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/GaurangJotwani/Leetcode2/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/GaurangJotwani/Leetcode2/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
