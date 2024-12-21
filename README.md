@@ -554,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
+| [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/GaurangJotwani/Leetcode2/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
@@ -972,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/GaurangJotwani/Leetcode2/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/GaurangJotwani/Leetcode2/tree/master/1708-design-parking-system) |
@@ -1162,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
 | [0362-design-hit-counter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3710-design-an-array-statistics-tracker](https://github.com/GaurangJotwani/Leetcode2/tree/master/3710-design-an-array-statistics-tracker) |
 ## Monotonic Queue
@@ -1361,6 +1364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0234-palindrome-linked-list) |
+| [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
 ## Merge Sort
 |  |
 | ------- |
