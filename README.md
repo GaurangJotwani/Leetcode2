@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
 | [0796-reaching-points](https://github.com/GaurangJotwani/Leetcode2/tree/master/0796-reaching-points) |
+| [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1057-numbers-with-repeated-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/1057-numbers-with-repeated-digits) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/GaurangJotwani/Leetcode2/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/GaurangJotwani/Leetcode2/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/GaurangJotwani/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0731-my-calendar-ii) |
+| [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
@@ -1039,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/GaurangJotwani/Leetcode2/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -1412,4 +1416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
