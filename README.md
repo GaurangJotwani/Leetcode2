@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0314-binary-tree-vertical-order-traversal](https://github.com/GaurangJotwani/Leetcode2/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/GaurangJotwani/Leetcode2/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/GaurangJotwani/Leetcode2/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
@@ -854,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/GaurangJotwani/Leetcode2/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
