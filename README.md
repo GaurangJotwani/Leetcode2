@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/GaurangJotwani/Leetcode2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3410-find-longest-self-contained-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/3410-find-longest-self-contained-substring) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3710-design-an-array-statistics-tracker](https://github.com/GaurangJotwani/Leetcode2/tree/master/3710-design-an-array-statistics-tracker) |
 ## Dynamic Programming
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2714-left-and-right-sum-differences](https://github.com/GaurangJotwani/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3410-find-longest-self-contained-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/3410-find-longest-self-contained-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -926,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-minimum-penalty-for-a-shop](https://github.com/GaurangJotwani/Leetcode2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2881-split-strings-by-separator](https://github.com/GaurangJotwani/Leetcode2/tree/master/2881-split-strings-by-separator) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GaurangJotwani/Leetcode2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3410-find-longest-self-contained-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/3410-find-longest-self-contained-substring) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
@@ -1073,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/GaurangJotwani/Leetcode2/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3410-find-longest-self-contained-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/3410-find-longest-self-contained-substring) |
 | [3710-design-an-array-statistics-tracker](https://github.com/GaurangJotwani/Leetcode2/tree/master/3710-design-an-array-statistics-tracker) |
 ## Greedy
 |  |
