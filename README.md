@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
+| [0415-add-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/GaurangJotwani/Leetcode2/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/GaurangJotwani/Leetcode2/tree/master/0472-concatenated-words) |
@@ -1384,6 +1386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/GaurangJotwani/Leetcode2/tree/master/0735-asteroid-collision) |
 | [1708-design-parking-system](https://github.com/GaurangJotwani/Leetcode2/tree/master/1708-design-parking-system) |
