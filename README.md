@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0332-reconstruct-itinerary) |
+| [0339-nested-list-weight-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0339-nested-list-weight-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0463-island-perimeter) |
