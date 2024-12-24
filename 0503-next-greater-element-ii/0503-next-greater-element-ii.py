@@ -9,8 +9,8 @@ class Solution:
         for i,num in enumerate(nums):
 
             while stack and stack[-1][0] < num:
-                if res[stack[-1][1] % n] == -1:
-                    res[stack[-1][1] % n] = num
+                
+                res[stack[-1][1] % n] = num
                 stack.pop()
             stack.append((num,i))
 
