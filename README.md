@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GaurangJotwani/Leetcode2/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
@@ -1146,6 +1147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/GaurangJotwani/Leetcode2/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
@@ -1167,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/GaurangJotwani/Leetcode2/tree/master/0937-online-stock-span) |
