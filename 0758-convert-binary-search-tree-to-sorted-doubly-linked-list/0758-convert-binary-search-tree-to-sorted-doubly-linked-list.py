@@ -11,30 +11,35 @@ class Solution:
     def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
             return
-        nodes = []
+        
+        if not root.left and not root.right:
+            root.left = root
+            root.right = root
+            return root
+        
+        prev = [None]
+        first = [None]
 
         def dfs(node):
             if not node:
                 return
             dfs(node.left)
-            nodes.append(node)
+            if not first[0]:
+                first[0] = node
+            if prev[0]:
+                prev[0].right = node
+                node.left = prev[0]
+            
+            prev[0] = node
             dfs(node.right)
         
         dfs(root)
-
-        for i in range(len(nodes)):
-            cNode = nodes[i]
-            if i - 1 >= 0:
-                cNode.left = nodes[i - 1]
-            if i + 1 < len(nodes):
-                cNode.right = nodes[i + 1]
-        
-        nodes[0].left = nodes[-1]
-        nodes[-1].right = nodes[0]
-
-        return nodes[0]
+        first[0].left = prev[0]
+        prev[0].right = first[0]
+        return first[0]
 
 
 
 
-        return root
+
+
