@@ -1,10 +1,6 @@
 class Solution:
     def groupStrings(self, strings: List[str]) -> List[List[str]]:
         patterns = defaultdict(list)
-        print(ord('a'))
-        print(ord('a')-ord('z'))
-        print(ord('b')-ord('a'))
-
         for s in strings:
             pattern = ""
             if len(s) == 1:
