@@ -906,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0807-custom-sort-string) |
 | [0868-push-dominoes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/GaurangJotwani/Leetcode2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0965-unique-email-addresses) |
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0990-verifying-an-alien-dictionary) |
@@ -1120,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/GaurangJotwani/Leetcode2/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/GaurangJotwani/Leetcode2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/GaurangJotwani/Leetcode2/tree/master/0985-bag-of-tokens) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/GaurangJotwani/Leetcode2/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1252-break-a-palindrome](https://github.com/GaurangJotwani/Leetcode2/tree/master/1252-break-a-palindrome) |
@@ -1170,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/GaurangJotwani/Leetcode2/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/GaurangJotwani/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/GaurangJotwani/Leetcode2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/GaurangJotwani/Leetcode2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
