@@ -576,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/GaurangJotwani/Leetcode2/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/GaurangJotwani/Leetcode2/tree/master/0753-open-the-lock) |
+| [0777-toeplitz-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
@@ -737,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/GaurangJotwani/Leetcode2/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
+| [0777-toeplitz-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/GaurangJotwani/Leetcode2/tree/master/1036-rotting-oranges) |
