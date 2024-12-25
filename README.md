@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
+| [0398-random-pick-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/GaurangJotwani/Leetcode2/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/0670-maximum-swap) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/GaurangJotwani/Leetcode2/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
@@ -1485,5 +1487,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0398-random-pick-index) |
 | [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
