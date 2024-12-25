@@ -1,14 +1,15 @@
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
         
-        stk = []
+        max_seen = float("-inf")
+        res = []
 
-        for i,h in enumerate(heights):
-
-            while stk and h >= stk[-1][0]:
-                stk.pop()
-            
-            stk.append((h,i))
+        for i in range(len(heights) - 1, -1, -1):
+            c_h = heights[i]
+            if c_h > max_seen:
+                res.append(i)
+                max_seen = c_h
         
-        res = [idx for h,idx in stk]
+        res.reverse()
         return res
+
