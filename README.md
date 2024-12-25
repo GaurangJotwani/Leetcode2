@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/GaurangJotwani/Leetcode2/tree/master/0744-network-delay-time) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/GaurangJotwani/Leetcode2/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1170,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/GaurangJotwani/Leetcode2/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/GaurangJotwani/Leetcode2/tree/master/0739-daily-temperatures) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0883-car-fleet](https://github.com/GaurangJotwani/Leetcode2/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/GaurangJotwani/Leetcode2/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/GaurangJotwani/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
@@ -1270,6 +1272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1309,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0617-merge-two-binary-trees) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1375,6 +1379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1408,6 +1413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0234-palindrome-linked-list) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
 ## Merge Sort
 |  |
@@ -1474,6 +1480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/GaurangJotwani/Leetcode2/tree/master/0146-lru-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Randomized
 |  |
 | ------- |
