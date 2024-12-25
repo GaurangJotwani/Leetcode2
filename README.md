@@ -921,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0778-reorganize-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0807-custom-sort-string) |
+| [0851-goat-latin](https://github.com/GaurangJotwani/Leetcode2/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GaurangJotwani/Leetcode2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/GaurangJotwani/Leetcode2/tree/master/0965-unique-email-addresses) |
