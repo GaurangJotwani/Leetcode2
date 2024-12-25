@@ -19,9 +19,7 @@ class Solution:
             shouldReverse = not shouldReverse
             
 
-        output = []
-        for lst in res:
-            output.extend(lst)
+        output = [item for lst in res for item in lst]
         return output
     
     def goDiagnolUp(self, mat, r, c):
