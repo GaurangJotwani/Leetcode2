@@ -1414,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0234-palindrome-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
 ## Merge Sort
 |  |
