@@ -538,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaurangJotwani/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0346-moving-average-from-data-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0362-design-hit-counter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0362-design-hit-counter) |
@@ -1009,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
+| [0346-moving-average-from-data-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0362-design-hit-counter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GaurangJotwani/Leetcode2/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0729-my-calendar-i) |
@@ -1216,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
+| [0346-moving-average-from-data-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/0860-design-circular-queue) |
@@ -1400,6 +1403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/GaurangJotwani/Leetcode2/tree/master/0937-online-stock-span) |
