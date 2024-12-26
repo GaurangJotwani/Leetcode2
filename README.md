@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/GaurangJotwani/Leetcode2/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GaurangJotwani/Leetcode2/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
+| [2383-add-two-integers](https://github.com/GaurangJotwani/Leetcode2/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2716-prime-subtraction-operation](https://github.com/GaurangJotwani/Leetcode2/tree/master/2716-prime-subtraction-operation) |
