@@ -1,18 +1,28 @@
 class Solution:
     def findDiagonalOrder(self, nums: List[List[int]]) -> List[int]:
         
-        groups = defaultdict(list)
+        q = deque()
+        visited = set()
         ROWS = len(nums)
 
-        for r in range(ROWS - 1, -1, -1):
-            for c in range(len(nums[r])):
-                groups[r + c].append(nums[r][c])
-        
-        curr = 0
+        q.append((0,0))
+        visited.add((0,0))
         res = []
 
-        while curr in groups:
-            res.extend(groups[curr])
-            curr += 1
+        while q:
+            r,c = q.popleft()
+            res.append(nums[r][c])
+
+            row = nums[r]
+            
+            if r + 1 < ROWS and c < len(nums[r + 1]) and (r + 1, c) not in visited:
+                visited.add((r + 1, c))
+                q.append((r + 1, c))
+            
+            if c + 1 < len(row):
+                visited.add((r, c + 1))
+                q.append((r, c + 1))
         
         return res
+
+
