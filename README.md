@@ -617,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/GaurangJotwani/Leetcode2/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GaurangJotwani/Leetcode2/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1059-missing-element-in-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1059-missing-element-in-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
@@ -1137,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/GaurangJotwani/Leetcode2/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/GaurangJotwani/Leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
+| [1059-missing-element-in-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1059-missing-element-in-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GaurangJotwani/Leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GaurangJotwani/Leetcode2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
