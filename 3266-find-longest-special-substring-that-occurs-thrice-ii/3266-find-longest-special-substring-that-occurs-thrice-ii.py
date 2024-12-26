@@ -16,7 +16,7 @@ class Solution:
                 l += 1
             
             for cnt in range(max(res,1),seen[s[r]] + 1):
-                key = s[r] + "-" + str(cnt) 
+                key = (s[r], cnt) 
                 counter[key] += 1
                 if counter[key] >= 3:
                     res = max(res, cnt)
