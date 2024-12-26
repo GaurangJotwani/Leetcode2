@@ -633,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GaurangJotwani/Leetcode2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1522-stone-game-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1522-stone-game-iii) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/GaurangJotwani/Leetcode2/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1539-diagonal-traverse-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1539-diagonal-traverse-ii) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GaurangJotwani/Leetcode2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -807,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/GaurangJotwani/Leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GaurangJotwani/Leetcode2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/GaurangJotwani/Leetcode2/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1539-diagonal-traverse-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1539-diagonal-traverse-ii) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/GaurangJotwani/Leetcode2/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GaurangJotwani/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
@@ -847,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/GaurangJotwani/Leetcode2/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GaurangJotwani/Leetcode2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1539-diagonal-traverse-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1539-diagonal-traverse-ii) |
 | [1753-path-with-minimum-effort](https://github.com/GaurangJotwani/Leetcode2/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/GaurangJotwani/Leetcode2/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1794-minimize-deviation-in-array) |
