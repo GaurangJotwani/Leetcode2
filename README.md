@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/GaurangJotwani/Leetcode2/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/GaurangJotwani/Leetcode2/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurangJotwani/Leetcode2/tree/master/0451-sort-characters-by-frequency) |
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/GaurangJotwani/Leetcode2/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0966-binary-subarrays-with-sum) |
@@ -919,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/GaurangJotwani/Leetcode2/tree/master/0408-valid-word-abbreviation) |
