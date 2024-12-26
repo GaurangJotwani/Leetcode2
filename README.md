@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/GaurangJotwani/Leetcode2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/GaurangJotwani/Leetcode2/tree/master/0820-find-eventual-safe-states) |
+| [0832-binary-tree-pruning](https://github.com/GaurangJotwani/Leetcode2/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
@@ -1333,6 +1334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/GaurangJotwani/Leetcode2/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1376,6 +1378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GaurangJotwani/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/GaurangJotwani/Leetcode2/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
