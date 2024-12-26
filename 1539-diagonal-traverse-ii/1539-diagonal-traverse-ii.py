@@ -14,10 +14,11 @@ class Solution:
             res.append(nums[r][c])
 
             row = nums[r]
-            
-            if r + 1 < ROWS and c < len(nums[r + 1]) and (r + 1, c) not in visited:
-                visited.add((r + 1, c))
-                q.append((r + 1, c))
+
+            if c == 0:
+                if r + 1 < ROWS and c < len(nums[r + 1]) and (r + 1, c) not in visited:
+                    visited.add((r + 1, c))
+                    q.append((r + 1, c))
             
             if c + 1 < len(row):
                 visited.add((r, c + 1))
