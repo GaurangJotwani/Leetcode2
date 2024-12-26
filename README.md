@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-analyze-user-website-visit-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GaurangJotwani/Leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1256-rank-transform-of-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GaurangJotwani/Leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/GaurangJotwani/Leetcode2/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GaurangJotwani/Leetcode2/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/GaurangJotwani/Leetcode2/tree/master/1306-minimum-absolute-difference) |
 | [1325-path-with-maximum-probability](https://github.com/GaurangJotwani/Leetcode2/tree/master/1325-path-with-maximum-probability) |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
+| [1256-rank-transform-of-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/GaurangJotwani/Leetcode2/tree/master/1306-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GaurangJotwani/Leetcode2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
