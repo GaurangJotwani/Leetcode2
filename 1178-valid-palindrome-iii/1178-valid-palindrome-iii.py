@@ -25,5 +25,4 @@ class Solution:
             
             return dp[(l,r)]
         
-        print(dfs(0,len(s) - 1))
         return dfs(0, len(s) - 1) <= k
