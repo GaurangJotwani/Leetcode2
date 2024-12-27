@@ -642,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/GaurangJotwani/Leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GaurangJotwani/Leetcode2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1522-stone-game-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1522-stone-game-iii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/GaurangJotwani/Leetcode2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/GaurangJotwani/Leetcode2/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1539-diagonal-traverse-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1539-diagonal-traverse-ii) |
 | [1547-destination-city](https://github.com/GaurangJotwani/Leetcode2/tree/master/1547-destination-city) |
