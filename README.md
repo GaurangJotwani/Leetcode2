@@ -579,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/GaurangJotwani/Leetcode2/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/GaurangJotwani/Leetcode2/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -743,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaurangJotwani/Leetcode2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
