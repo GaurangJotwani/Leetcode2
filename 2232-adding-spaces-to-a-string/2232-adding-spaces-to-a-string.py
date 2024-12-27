@@ -7,11 +7,7 @@ class Solution:
 
         while p1 < len(s):
             
-            if p2 == len(spaces):
-                res.append(s[p1])
-                p1 += 1
-                continue
-            if p1 < spaces[p2]:
+            if p2 == len(spaces) or p1 < spaces[p2]:
                 res.append(s[p1])
                 p1 += 1
                 continue
