@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/GaurangJotwani/Leetcode2/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/GaurangJotwani/Leetcode2/tree/master/1753-path-with-minimum-effort) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2035-count-sub-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/GaurangJotwani/Leetcode2/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1357,6 +1358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -1402,6 +1404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/GaurangJotwani/Leetcode2/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String Matching
