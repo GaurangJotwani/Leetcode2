@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/GaurangJotwani/Leetcode2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/GaurangJotwani/Leetcode2/tree/master/2636-maximum-subsequence-score) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/GaurangJotwani/Leetcode2/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/GaurangJotwani/Leetcode2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/GaurangJotwani/Leetcode2/tree/master/2636-maximum-subsequence-score) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/GaurangJotwani/Leetcode2/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Bucket Sort
 |  |
@@ -1503,6 +1505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaurangJotwani/Leetcode2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/GaurangJotwani/Leetcode2/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Rolling Hash
 |  |
