@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0332-reconstruct-itinerary) |
 | [0339-nested-list-weight-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/GaurangJotwani/Leetcode2/tree/master/0341-flatten-nested-list-iterator) |
+| [0386-lexicographical-numbers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/GaurangJotwani/Leetcode2/tree/master/0463-island-perimeter) |
@@ -1420,6 +1421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/GaurangJotwani/Leetcode2/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/GaurangJotwani/Leetcode2/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/GaurangJotwani/Leetcode2/tree/master/0472-concatenated-words) |
 ## Recursion
 |  |
