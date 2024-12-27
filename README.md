@@ -627,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GaurangJotwani/Leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1184-car-pooling) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/GaurangJotwani/Leetcode2/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1256-rank-transform-of-an-array) |
