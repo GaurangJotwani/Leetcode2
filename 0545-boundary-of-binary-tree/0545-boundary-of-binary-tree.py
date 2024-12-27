@@ -17,8 +17,6 @@ class Solution:
         res = []
         if not root:
             return res
-        print("hey")
-        print(root.val)
         curr = root
         while curr:
             if not curr.left and not curr.right:
