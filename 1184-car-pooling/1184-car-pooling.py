@@ -8,11 +8,14 @@ class Solution:
 
             cap, start, end = trip[0], trip[1], trip[2]
 
-            for i in range(start + 1, end + 1):
-                buckets[i] += cap
-                if buckets[i] > capacity:
-                    return False
+            buckets[start] += cap
+            buckets[end] -= cap
         
+        cap = 0
+        for passengers in buckets:
+            cap += passengers
+            if cap > capacity:
+                return False
 
         return True
 
