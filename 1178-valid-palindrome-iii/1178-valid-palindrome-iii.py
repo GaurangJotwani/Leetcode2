@@ -4,24 +4,26 @@ class Solution:
 
         dp = {}
 
-        def dfs(l,r,k):
+        def dfs(l,r):
             if l == r:
-                return True
-            if r - l == 1 and s[l] == s[r]:
-                return True
+                return 0
+            if r - l == 1:
+                if s[l] == s[r]:
+                    return 0
+                else:
+                    return 1
             
-            if (l,r,k) in dp:
-                return dp[(l,r,k)]
+            if (l,r) in dp:
+                return dp[(l,r)]
             
             if s[l] == s[r]:
-                dp[(l,r,k)] = dfs(l + 1, r - 1, k)
-                return dp[(l,r,k)]
+                dp[(l,r)] = dfs(l + 1, r - 1)
+                return dp[(l,r)]
             
-            if k > 0:
-                dp[(l,r,k)] = dfs(l + 1, r, k - 1) or dfs(l, r - 1, k - 1)
-            else:
-                dp[(l,r,k)] = False
+
+            dp[(l,r)] = 1 + min(dfs(l + 1, r),dfs(l, r - 1))
             
-            return dp[(l,r,k)]
+            return dp[(l,r)]
         
-        return dfs(0, len(s) - 1, k)
+        print(dfs(0,len(s) - 1))
+        return dfs(0, len(s) - 1) <= k
