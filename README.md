@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0243-shortest-word-distance](https://github.com/GaurangJotwani/Leetcode2/tree/master/0243-shortest-word-distance) |
+| [0247-strobogrammatic-number-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0247-strobogrammatic-number-ii) |
 | [0249-group-shifted-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0249-group-shifted-strings) |
 | [0253-meeting-rooms-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/GaurangJotwani/Leetcode2/tree/master/0256-paint-house) |
@@ -956,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/GaurangJotwani/Leetcode2/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0246-strobogrammatic-number) |
+| [0247-strobogrammatic-number-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0247-strobogrammatic-number-ii) |
 | [0249-group-shifted-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0249-group-shifted-strings) |
 | [0269-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
@@ -1472,6 +1474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/GaurangJotwani/Leetcode2/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0234-palindrome-linked-list) |
+| [0247-strobogrammatic-number-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0247-strobogrammatic-number-ii) |
 | [0342-power-of-four](https://github.com/GaurangJotwani/Leetcode2/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/GaurangJotwani/Leetcode2/tree/master/0795-k-th-symbol-in-grammar) |
