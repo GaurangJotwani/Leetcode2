@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/GaurangJotwani/Leetcode2/tree/master/0980-find-the-shortest-superstring) |
 | [1025-minimum-cost-for-tickets](https://github.com/GaurangJotwani/Leetcode2/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/1057-numbers-with-repeated-digits) |
+| [1063-best-sightseeing-pair](https://github.com/GaurangJotwani/Leetcode2/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/GaurangJotwani/Leetcode2/tree/master/1129-longest-string-chain) |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GaurangJotwani/Leetcode2/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1059-missing-element-in-sorted-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/1059-missing-element-in-sorted-array) |
+| [1063-best-sightseeing-pair](https://github.com/GaurangJotwani/Leetcode2/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/GaurangJotwani/Leetcode2/tree/master/1073-number-of-enclaves) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1117-as-far-from-land-as-possible](https://github.com/GaurangJotwani/Leetcode2/tree/master/1117-as-far-from-land-as-possible) |
