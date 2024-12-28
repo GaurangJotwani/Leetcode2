@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/GaurangJotwani/Leetcode2/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/GaurangJotwani/Leetcode2/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
@@ -604,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0665-non-decreasing-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/GaurangJotwani/Leetcode2/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GaurangJotwani/Leetcode2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/GaurangJotwani/Leetcode2/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/GaurangJotwani/Leetcode2/tree/master/0721-accounts-merge) |
