@@ -30,7 +30,6 @@ class Solution:
 
             return max(ans1, ans2)
         
-        max_found = dp(0, 3)
         indices = []
         def backtrack(idx, remaining):
             if idx >= len(prefix) or remaining == 0:
