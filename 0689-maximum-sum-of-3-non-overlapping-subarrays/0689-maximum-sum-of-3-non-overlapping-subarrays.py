@@ -32,14 +32,12 @@ class Solution:
         
         max_found = dp(0, 3)
         indices = []
-        print(max_found)
         def backtrack(idx, remaining):
             if idx >= len(prefix) or remaining == 0:
                 return 0
 
             sum_with = prefix[idx] + dp(idx + k, remaining - 1)
             sum_without = dp(idx + 1, remaining)
-            print(sum_with, sum_without)
 
             if sum_with >= sum_without:
                 indices.append(idx)
