@@ -1,51 +1,62 @@
 class Solution:
     def maxSumOfThreeSubarrays(self, nums: List[int], k: int) -> List[int]:
-        # Number of possible subarray starting positions
-        n = len(nums) - k + 1
 
-        # Calculate sum of all possible k-length subarrays
-        sums = [sum(nums[:k])]
-        for i in range(k, len(nums)):
-            sums.append(sums[-1] - nums[i - k] + nums[i])
+        prefix = [0] * len(nums)
+        l,cSum = 0, 0
+        for r in range(len(nums)):
+            cSum += nums[r]
+            if (r - l + 1) > k:
+                cSum -= nums[l]
+                l += 1
+            
+            if (r - l + 1) == k:
+                prefix[l] = cSum
+        
+        cache = {}
+        def dp(idx, remaining):
+            if remaining <= 0 or idx >= len(prefix):
+                return 0
+            
+            if (idx,remaining) in cache:
+                return cache[(idx, remaining)]
 
-        # memo[i][j]: max sum possible starting from index i with j subarrays remaining
-        memo = [[-1] * 4 for _ in range(n)]
+            
+            #Case 1: skip
+            ans1 = dp(idx + 1, remaining)
+
+            #Case: take it
+            ans2 =  prefix[idx] + dp(idx + k, remaining - 1)
+            cache[(idx, remaining)] = max(ans1, ans2)
+
+            return max(ans1, ans2)
+        
+        max_found = dp(0, 3)
         indices = []
+        print(max_found)
+        def backtrack(idx, remaining):
+            if idx >= len(prefix) or remaining == 0:
+                return 0
 
-        # First find optimal sum using DP
-        self._dp(sums, k, 0, 3, memo)
+            sum_with = prefix[idx] + dp(idx + k, remaining - 1)
+            sum_without = dp(idx + 1, remaining)
+            print(sum_with, sum_without)
 
-        # Then reconstruct the path to find indices
-        self._dfs(sums, k, 0, 3, memo, indices)
-
+            if sum_with >= sum_without:
+                indices.append(idx)
+                backtrack(idx + k, remaining - 1)
+            else:
+                backtrack(idx + 1, remaining)
+        
+        backtrack(0, 3)
         return indices
 
-    def _dp(self, sums, k, idx, rem, memo):
-        if rem == 0:
-            return 0
-        if idx >= len(sums):
-            return float("-inf") if rem > 0 else 0
 
-        if memo[idx][rem] != -1:
-            return memo[idx][rem]
+            
 
-        # Try taking current subarray vs skipping it
-        with_current = sums[idx] + self._dp(sums, k, idx + k, rem - 1, memo)
-        skip_current = self._dp(sums, k, idx + 1, rem, memo)
+            
 
-        memo[idx][rem] = max(with_current, skip_current)
-        return memo[idx][rem]
 
-    def _dfs(self, sums, k, idx, rem, memo, indices):
-        if rem == 0 or idx >= len(sums):
-            return
 
-        with_current = sums[idx] + self._dp(sums, k, idx + k, rem - 1, memo)
-        skip_current = self._dp(sums, k, idx + 1, rem, memo)
 
-        # Choose path that gave optimal result in DP
-        if with_current >= skip_current:  # Take current subarray
-            indices.append(idx)
-            self._dfs(sums, k, idx + k, rem - 1, memo, indices)
-        else:  # Skip current subarray
-            self._dfs(sums, k, idx + 1, rem, memo, indices)
+
+        
