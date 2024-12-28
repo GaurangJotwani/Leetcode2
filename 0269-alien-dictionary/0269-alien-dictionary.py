@@ -18,22 +18,22 @@ class Solution:
         # Step 3: Topological sort using DFS
         visiting = set()
         visited = set()
-        result = []
+        res = []
         
         def dfs(node):
-            if node in visiting:  # Cycle detected
-                return False
-            if node in visited:  # Already processed
-                return True
-            
             visiting.add(node)
-            for neighbor in adjList[node]:
-                if not dfs(neighbor):
+            
+            for nei in adjList[node]:
+                if nei in visited:
+                    continue
+                if nei in visiting:
+                    return False
+                if not dfs(nei):
                     return False
             
             visiting.remove(node)
             visited.add(node)
-            result.append(node)
+            res.append(node)
             return True
         
         # Perform DFS for all characters
@@ -43,5 +43,5 @@ class Solution:
                     return ""
         
         # Reverse result to get the correct order
-        result.reverse()
-        return "".join(result)
+        res.reverse()
+        return "".join(res)
