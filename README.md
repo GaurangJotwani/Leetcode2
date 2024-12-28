@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
+| [0246-strobogrammatic-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/GaurangJotwani/Leetcode2/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -954,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/GaurangJotwani/Leetcode2/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/GaurangJotwani/Leetcode2/tree/master/0243-shortest-word-distance) |
+| [0246-strobogrammatic-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0249-group-shifted-strings) |
 | [0269-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
@@ -1111,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaurangJotwani/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0234-palindrome-linked-list) |
+| [0246-strobogrammatic-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0287-find-the-duplicate-number) |
