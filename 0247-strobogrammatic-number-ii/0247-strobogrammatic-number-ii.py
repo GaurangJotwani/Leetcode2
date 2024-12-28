@@ -16,13 +16,15 @@ class Solution:
             dfs("6" + root + "9")
             dfs("9" + root + "6")
         
-        dfs("0")
-        dfs("1")
-        dfs("8")
-        dfs("00")
-        dfs("11")
-        dfs("88")
-        dfs("69")
-        dfs("96")
+        if n % 2 == 1:
+            dfs("0")
+            dfs("1")
+            dfs("8")
+        else:
+            dfs("00")
+            dfs("11")
+            dfs("88")
+            dfs("69")
+            dfs("96")
         res.sort()
         return res
