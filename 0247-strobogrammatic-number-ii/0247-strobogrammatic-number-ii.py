@@ -21,10 +21,5 @@ class Solution:
             dfs("1")
             dfs("8")
         else:
-            dfs("00")
-            dfs("11")
-            dfs("88")
-            dfs("69")
-            dfs("96")
-        res.sort()
+            dfs("")
         return res
