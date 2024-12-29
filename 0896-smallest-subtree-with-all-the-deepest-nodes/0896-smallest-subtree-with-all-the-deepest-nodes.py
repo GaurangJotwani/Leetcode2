@@ -10,9 +10,7 @@ class Solution:
         res = [None]
         if not root:
             return []
-        if not root.left and not root.right:
-            return root
-        
+            
         cache = defaultdict(int)
         self.findDepth(root, 0, cache)
         max_depth = max(cache.keys())
