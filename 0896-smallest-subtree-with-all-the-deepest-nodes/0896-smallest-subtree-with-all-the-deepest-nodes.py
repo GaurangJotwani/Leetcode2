@@ -17,7 +17,6 @@ class Solution:
         self.findDepth(root, 0, cache)
         max_depth = max(cache.keys())
         nodes_to_find = cache[max_depth]
-        print(nodes_to_find)
 
         def dfs(node, depth):
             if not node:
@@ -25,7 +24,6 @@ class Solution:
             
             nodes_found_left = dfs(node.left, depth + 1)
             nodes_found_right = dfs(node.right, depth + 1)
-            print(nodes_found_left, nodes_found_right)
             is_max_depth_node = 1 if depth == max_depth else 0
 
             if nodes_found_left + nodes_found_right + is_max_depth_node == nodes_to_find and not res[0]:
