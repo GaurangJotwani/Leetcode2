@@ -9,11 +9,12 @@ class Solution:
 
         for _ in range(k):
             num, i = heappop(min_heap)
+            nums[i] *= multiplier
             heappush(min_heap, (num * multiplier, i))
         
-        while min_heap:
-            num, i = heappop(min_heap)
-            nums[i] = num
+        # while min_heap:
+        #     num, i = heappop(min_heap)
+        #     nums[i] = num
         
         return nums
 
