@@ -465,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GaurangJotwani/Leetcode2/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1522-stone-game-iii](https://github.com/GaurangJotwani/Leetcode2/tree/master/1522-stone-game-iii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1893-maximum-subarray-sum-after-one-operation](https://github.com/GaurangJotwani/Leetcode2/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1906-maximize-score-after-n-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1906-maximize-score-after-n-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2164-two-best-non-overlapping-events](https://github.com/GaurangJotwani/Leetcode2/tree/master/2164-two-best-non-overlapping-events) |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GaurangJotwani/Leetcode2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GaurangJotwani/Leetcode2/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1893-maximum-subarray-sum-after-one-operation](https://github.com/GaurangJotwani/Leetcode2/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1906-maximize-score-after-n-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1906-maximize-score-after-n-operations) |
 | [1909-buildings-with-an-ocean-view](https://github.com/GaurangJotwani/Leetcode2/tree/master/1909-buildings-with-an-ocean-view) |
 | [1962-single-threaded-cpu](https://github.com/GaurangJotwani/Leetcode2/tree/master/1962-single-threaded-cpu) |
