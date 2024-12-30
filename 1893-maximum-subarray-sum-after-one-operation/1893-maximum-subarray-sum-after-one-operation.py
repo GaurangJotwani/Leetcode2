@@ -1,32 +1,37 @@
 class Solution:
-    def maxSumAfterOperation(self, nums: List[int]) -> int:
+    def maxSumAfterOperation(self, nums: list[int]) -> int:
+        n = len(nums)  # Get the size of the input array.
 
-        cache = {}
-        res = [0]
-        def dfs(idx, used):
+        # Initialize a DP table
+        dp = [[0, 0] for _ in range(n)]
 
-            if idx == len(nums):
-                return 0
+        # Base case
+        dp[0][0] = nums[
+            0
+        ]  # Maximum sum with no squared element is just the first element.
+        dp[0][1] = (
+            nums[0] * nums[0]
+        )  # Maximum sum with the first element squared.
 
-            if (idx, used) in cache: 
-                return cache[(idx, used)]
+        max_sum = dp[0][1]
 
-            ans1 = nums[idx] + dfs(idx + 1, used)
+        for index in range(1, n):
+            # Option 1: Start a new subarray.
+            # Option 2: Continue the previous subarray.
+            dp[index][0] = max(nums[index], dp[index - 1][0] + nums[index])
 
+            # Option 1: Start a new subarray.
+            # Option 2: Square the current element.
+            # Option 3: Do not square the element.
+            dp[index][1] = max(
+                max(
+                    nums[index] * nums[index],
+                    dp[index - 1][0] + nums[index] * nums[index],
+                ),
+                dp[index - 1][1] + nums[index],
+            )
 
-            if not used:
-                ans1 = max(ans1, nums[idx] * nums[idx] + dfs(idx + 1, not used))
+            # Update max_sum
+            max_sum = max(max_sum, dp[index][1])
 
-            
-            res[0] = max(res[0], ans1)
-            cache[(idx, used)] = max(0 ,ans1)
-            return cache[(idx, used)]
-        
-        dfs(0, False)
-        return res[0]
-            
-
-
-
-
-        
+        return max_sum
