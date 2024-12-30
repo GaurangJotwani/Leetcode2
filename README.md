@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0246-strobogrammatic-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
+| [0291-word-pattern-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0291-word-pattern-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/GaurangJotwani/Leetcode2/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/GaurangJotwani/Leetcode2/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
@@ -979,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0271-encode-and-decode-strings) |
 | [0282-expression-add-operators](https://github.com/GaurangJotwani/Leetcode2/tree/master/0282-expression-add-operators) |
+| [0291-word-pattern-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0291-word-pattern-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/GaurangJotwani/Leetcode2/tree/master/0383-ransom-note) |
@@ -1353,6 +1355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/GaurangJotwani/Leetcode2/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/GaurangJotwani/Leetcode2/tree/master/0282-expression-add-operators) |
+| [0291-word-pattern-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0291-word-pattern-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
 | [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
