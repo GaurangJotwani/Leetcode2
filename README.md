@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/GaurangJotwani/Leetcode2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GaurangJotwani/Leetcode2/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0261-graph-valid-tree) |
+| [0305-number-of-islands-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/GaurangJotwani/Leetcode2/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/GaurangJotwani/Leetcode2/tree/master/0684-redundant-connection) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0249-group-shifted-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0268-missing-number) |
 | [0291-word-pattern-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0291-word-pattern-ii) |
+| [0305-number-of-islands-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0305-number-of-islands-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/GaurangJotwani/Leetcode2/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/GaurangJotwani/Leetcode2/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0286-walls-and-gates](https://github.com/GaurangJotwani/Leetcode2/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
+| [0305-number-of-islands-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0305-number-of-islands-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaurangJotwani/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/GaurangJotwani/Leetcode2/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/GaurangJotwani/Leetcode2/tree/master/0322-coin-change) |
