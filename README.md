@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/GaurangJotwani/Leetcode2/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GaurangJotwani/Leetcode2/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0493-reverse-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/GaurangJotwani/Leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0465-optimal-account-balancing](https://github.com/GaurangJotwani/Leetcode2/tree/master/0465-optimal-account-balancing) |
 | [0472-concatenated-words](https://github.com/GaurangJotwani/Leetcode2/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/GaurangJotwani/Leetcode2/tree/master/0473-matchsticks-to-square) |
+| [0493-reverse-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/GaurangJotwani/Leetcode2/tree/master/0498-diagonal-traverse) |
@@ -1203,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/GaurangJotwani/Leetcode2/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/GaurangJotwani/Leetcode2/tree/master/0792-binary-search) |
@@ -1576,6 +1579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GaurangJotwani/Leetcode2/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -1610,6 +1614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/GaurangJotwani/Leetcode2/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0731-my-calendar-ii) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/GaurangJotwani/Leetcode2/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -1628,10 +1633,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/GaurangJotwani/Leetcode2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GaurangJotwani/Leetcode2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0731-my-calendar-ii) |
