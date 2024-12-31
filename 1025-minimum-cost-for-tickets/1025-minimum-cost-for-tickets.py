@@ -1,34 +1,36 @@
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
 
-        memo = {}
+        dp = {}
 
-        def dp(i):
+        def dfs(i):
             if i >= len(days):
                 return 0
-
-            if i in memo:
-                return memo[i]
             
-            #Case 1, daily ticket
-            ans1 = costs[0] + dp(i + 1)
+            if i in dp:
+                return dp[i]
+            
+            #Case 1: take single day ticket
+            ans1 = costs[0] + dfs(i + 1)
 
-            #Case 2, weekly ticket
+            #Case 2: 7 day pass
             j = i
-            while j < len(days) and days[j] - days[i] < 7:
+            while j < len(days) and days[j] < days[i] + 7:
                 j += 1
-            ans2 = costs[1] + dp(j)
+            ans2 = costs[1] + dfs(j)
 
-            #Case 3, monthly ticket
+            #Case 2: 30 day pass
             j = i
-            while j < len(days) and days[j] - days[i] < 30:
+            while j < len(days) and days[j] < days[i] + 30:
                 j += 1
-            ans3 = costs[2] + dp(j)
+            ans3 = costs[2] + dfs(j)
 
-            memo[i] = min(ans1, ans2, ans3) 
-            return memo[i]
+            dp[i] = min(ans1, ans2, ans3)
+
+            return dp[i]
         
-        return dp(0)
+        return dfs(0)
+
 
 
 
