@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/GaurangJotwani/Leetcode2/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/GaurangJotwani/Leetcode2/tree/master/0269-alien-dictionary) |
+| [0277-find-the-celebrity](https://github.com/GaurangJotwani/Leetcode2/tree/master/0277-find-the-celebrity) |
 | [0310-minimum-height-trees](https://github.com/GaurangJotwani/Leetcode2/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GaurangJotwani/Leetcode2/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1148,6 +1149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/GaurangJotwani/Leetcode2/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/0253-meeting-rooms-ii) |
+| [0277-find-the-celebrity](https://github.com/GaurangJotwani/Leetcode2/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/GaurangJotwani/Leetcode2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangJotwani/Leetcode2/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/GaurangJotwani/Leetcode2/tree/master/0344-reverse-string) |
@@ -1622,6 +1624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Interactive
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/GaurangJotwani/Leetcode2/tree/master/0277-find-the-celebrity) |
 | [0374-guess-number-higher-or-lower](https://github.com/GaurangJotwani/Leetcode2/tree/master/0374-guess-number-higher-or-lower) |
 | [0865-robot-room-cleaner](https://github.com/GaurangJotwani/Leetcode2/tree/master/0865-robot-room-cleaner) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/GaurangJotwani/Leetcode2/tree/master/1931-shortest-path-in-a-hidden-grid) |
