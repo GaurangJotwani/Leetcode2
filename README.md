@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2716-prime-subtraction-operation](https://github.com/GaurangJotwani/Leetcode2/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/GaurangJotwani/Leetcode2/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/GaurangJotwani/Leetcode2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/GaurangJotwani/Leetcode2/tree/master/2671-shortest-cycle-in-a-graph) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -937,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GaurangJotwani/Leetcode2/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GaurangJotwani/Leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1525,6 +1528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/GaurangJotwani/Leetcode2/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GaurangJotwani/Leetcode2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/GaurangJotwani/Leetcode2/tree/master/1325-path-with-maximum-probability) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1651,6 +1655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1585-the-kth-factor-of-n](https://github.com/GaurangJotwani/Leetcode2/tree/master/1585-the-kth-factor-of-n) |
 | [1906-maximize-score-after-n-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1906-maximize-score-after-n-operations) |
 | [2716-prime-subtraction-operation](https://github.com/GaurangJotwani/Leetcode2/tree/master/2716-prime-subtraction-operation) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Doubly-Linked List
 |  |
 | ------- |
