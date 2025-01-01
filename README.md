@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3410-find-longest-self-contained-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/3410-find-longest-self-contained-substring) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
 | [3710-design-an-array-statistics-tracker](https://github.com/GaurangJotwani/Leetcode2/tree/master/3710-design-an-array-statistics-tracker) |
 ## Dynamic Programming
 |  |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/GaurangJotwani/Leetcode2/tree/master/2562-count-ways-to-build-good-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/GaurangJotwani/Leetcode2/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
 | [3654-minimum-array-sum](https://github.com/GaurangJotwani/Leetcode2/tree/master/3654-minimum-array-sum) |
 ## Memoization
 |  |
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/GaurangJotwani/Leetcode2/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
 ## Array
 |  |
 | ------- |
@@ -1079,6 +1082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/GaurangJotwani/Leetcode2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3410-find-longest-self-contained-substring](https://github.com/GaurangJotwani/Leetcode2/tree/master/3410-find-longest-self-contained-substring) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/GaurangJotwani/Leetcode2/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1619,6 +1623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1212-sequential-digits](https://github.com/GaurangJotwani/Leetcode2/tree/master/1212-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GaurangJotwani/Leetcode2/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GaurangJotwani/Leetcode2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/GaurangJotwani/Leetcode2/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
 ## Ordered Set
 |  |
 | ------- |
