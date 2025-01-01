@@ -13,10 +13,7 @@ class Solution:
         total_shift = abs(total_shift) % len(s)
         i = total_shift
 
-        if dr == 0:
-            s = s[i:] + s[:i]
-        else:
-            s = s[len(s) - i:] + s[:len(s) - i]
+        s = s[i:] + s[:i] if dr == 0 else s[len(s) - i:] + s[:len(s) - i]
         
         return s
 
