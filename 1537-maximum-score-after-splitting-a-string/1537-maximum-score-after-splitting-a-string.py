@@ -1,12 +1,8 @@
 class Solution:
     def maxScore(self, s: str) -> int:
 
-        total_ones = 0
-        for c in s:
-            if c == "1":
-                total_ones += 1
-        res = 0
         
+        res = float("-inf")
         num_of_zeroes = 0
         num_of_ones = 0
 
@@ -16,11 +12,14 @@ class Solution:
                 num_of_zeroes += 1
             else:
                 num_of_ones += 1
-            print(num_of_ones)
-            print(num_of_zeroes)
-            print("------")
-            res = max(res, total_ones - num_of_ones + num_of_zeroes)
+            
+            res = max(res, num_of_zeroes - num_of_ones)
+            print(res)
         
-        return res
+        if s[-1] == "1":
+            num_of_ones += 1
+        
+        
+        return res + num_of_ones
             
         
