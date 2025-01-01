@@ -14,7 +14,6 @@ class Solution:
                 num_of_ones += 1
             
             res = max(res, num_of_zeroes - num_of_ones)
-            print(res)
         
         if s[-1] == "1":
             num_of_ones += 1
