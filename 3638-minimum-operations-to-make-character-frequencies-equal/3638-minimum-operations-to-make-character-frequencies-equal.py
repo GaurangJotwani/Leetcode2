@@ -7,10 +7,14 @@ class Solution:
         for c in s:
             counts[ord(c) - ord('a')] += 1
         
-        @cache
+        cache = {}
+
         def dp(i, target, deleted):
             if i >= 26:
                 return 0
+            
+            if (i,target,deleted) in cache:
+                return cache[(i,target,deleted)]
             
             if counts[i] == target or counts[i] == 0:
                 return dp(i + 1, target, 0)
@@ -18,7 +22,8 @@ class Solution:
             x = counts[i]
 
             if x > target:
-                return dp(i + 1, target, x-target) + x - target
+                cache[(i,target,deleted)] = dp(i + 1, target, x-target) + x - target
+                return cache[(i,target,deleted)]
             else:
                 need = target - x
 
@@ -28,7 +33,8 @@ class Solution:
 
                 change = dp(i + 1, target, 0) + need - min(need, deleted)
 
-                return min(insert, delete, change)
+                cache[(i,target,deleted)] = min(insert, delete, change)
+                return cache[(i,target,deleted)]
 
 
         res = float("inf")
