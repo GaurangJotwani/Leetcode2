@@ -4,10 +4,7 @@ class Solution:
         total_shift = 0
 
         for dr, mag in shift:
-            if dr == 0:
-                total_shift -= mag
-            else:
-                total_shift += mag
+            total_shift = total_shift - mag if dr == 0 else total_shift + mag
         
         dr = 0 if total_shift < 0 else 1
         total_shift = abs(total_shift) % len(s)
